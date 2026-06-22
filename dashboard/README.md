@@ -70,7 +70,7 @@ Once started, open your web browser and navigate to:
 *   **`logos/`**: Static assets directory.
     *   `state.png`: AP Government official emblem (used on the right side).
     *   `apswreis.png`: APSWREIS logo (used on the left side).
-*   **`dashboard_embed.html`**: A static reference layout file.
+*   **`index.html`**: A static reference layout file.
 
 ---
 
