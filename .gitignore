@@ -1,0 +1,45 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Python dependencies & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.python-version
+
+# Environment variables (Sensitive credentials)
+.env
+.env.*
+*.env
+dashboard/.env
+school_cleanup/.env
+data cleanup script /.env
+
+# Logs
+# *.log
+# data cleanup script /*.log
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Output & temp directories/files
+# *.zip
+# school_cleanup_backup/
+temp-test/
+# metric1_output.csv
+# metric1_output_owl.csv
+# /scratch/

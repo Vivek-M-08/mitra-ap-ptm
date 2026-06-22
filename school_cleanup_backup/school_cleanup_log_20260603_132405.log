@@ -1,0 +1,480 @@
+2026-06-03 13:24:05  =========================================
+2026-06-03 13:24:05    CLEANUP SCRIPT
+2026-06-03 13:24:05    DRY_RUN: False
+2026-06-03 13:24:05    Log file: school_cleanup_log_20260603_132405.log
+2026-06-03 13:24:05  =========================================
+
+2026-06-03 13:24:05  [*] Loaded 184 valid school codes from 'schools_to_retain.csv'.
+2026-06-03 13:24:05  [*] Connecting to the database...
+2026-06-03 13:24:05  [*] Identifying records to delete...
+2026-06-03 13:24:05  
+[!] Found 7723 total records to delete across 461 unmatched school codes.
+
+2026-06-03 13:24:05  --- DATA TO BE DELETED ---
+2026-06-03 13:24:05  School Name                                        | School Code     | Records
+2026-06-03 13:24:05  ------------------------------------------------------------------------------
+2026-06-03 13:24:05  GOVT COLLEGE BOYS HOSTEL (BC) - AMADALAVALASA      | 0102-2503-006   | 10     
+2026-06-03 13:24:05  GOVT BOYS HOSTEL (BC) - M.S.R PURAM                | 0107-2503-006   | 9      
+2026-06-03 13:24:05  SW COLLEGE  BOYS  HOSTEL NO1 Marripalem Madhuraw   | 0201-2402-023   | 11     
+2026-06-03 13:24:05  SW COLLEGE  BOYS  HOSTEL NO3 Chinagadili           | 0201-2402-024   | 20     
+2026-06-03 13:24:05  SW COLLEGE BOYS HOSTEL MADHURAWADA                 | 0201-2402-026   | 10     
+2026-06-03 13:24:05  GTW PM COLLEGE HOSTEL(BOYS) KAPARADA VISAKHAPATN   | 0201-2403-009   | 29     
+2026-06-03 13:24:05  GTW PM COLLEGE HOSTEL(BOYS) VISAKHAPATNAM-3        | 0201-2403-013   | 10     
+2026-06-03 13:24:05  Govt.B.C.College Girls Hostel Visakhapatnam (SOU   | 0201-2501-016   | 10     
+2026-06-03 13:24:05  GTW ASHRAM SCHOOL(BOYS) PEDAVALASA                 | 0206-2403-023   | 10     
+2026-06-03 13:24:05  GTW ASHRAM SCHOOL(BOYS) CHINTHAPALLI-2             | 0206-2403-033   | 10     
+2026-06-03 13:24:05  GTW ASHRAM SCHOOL(GIRLS) THANDAVA                  | 0206-2403-045   | 6      
+2026-06-03 13:24:05  GTW ASHRAM SCHOOL(GIRLS) RINTHADA                  | 0206-2403-047   | 10     
+2026-06-03 13:24:05  Govt. SW Girls Hostel, Ravikamatham                | 0210-2402-005   | 18     
+2026-06-03 13:24:05  Govt.B.C.Boys Hostel Butchayyapeta                 | 0210-2501-004   | 40     
+2026-06-03 13:24:05  Govt.B.C.Boys Hostel, Golugonda                    | 0212-2501-005   | 10     
+2026-06-03 13:24:05  GTW ASHRAM SCHOOL(BOYS) TALARISINGI PADERU         | 0213-2403-006   | 10     
+2026-06-03 13:24:05  GTW ASHRAM SCHOOL(BOYS) SEEKARI                    | 0213-2403-030   | 10     
+2026-06-03 13:24:05  SWBH 2 KAKINADA                                    | 0301-2402-004   | 10     
+2026-06-03 13:24:05  PMS COLLEGE HOSTEL(GIRLS)-1 KAKINADA               | 0301-2403-003   | 10     
+2026-06-03 13:24:05  GTW ASHRAM SCHOOL(BOYS) RAJAVOMMANGI               | 0302-2403-027   | 10     
+2026-06-03 13:24:05  PMS COLLEGE HOSTEL(GIRLS) DIVILI                   | 0308-2403-001   | 20     
+2026-06-03 13:24:05  SW Girls IWHC, PITHAPURAM                          | 0309-2402-009   | 9      
+2026-06-03 13:24:05  SWBH 1 RAJAHMUNDRY                                 | 0312-2402-008   | 10     
+2026-06-03 13:24:05  SW COLLEGE GIRLS HOSTEL NO 3 RAJAHMUNDRY           | 0312-2402-017   | 20     
+2026-06-03 13:24:05  INTEGRATED WELFARE HOSTEL COMPLEX, RAJAHMUNDRY     | 0312-2503-003   | 10     
+2026-06-03 13:24:05  SWBH 1 RAMACHANDRAPURAM                            | 0313-2402-002   | 10     
+2026-06-03 13:24:05  SW BOYS HOSTEL KUCHIMPUDI                          | 0401-2402-014   | 10     
+2026-06-03 13:24:05  SW GIRLS COLLEGE HOSTEL NO 2 ELURU                 | 0401-2402-017   | 10     
+2026-06-03 13:24:05  GOVT.B.C.GIRLS HOSTEL NO-2 ELURU                   | 0401-2503-002   | 10     
+2026-06-03 13:24:05  GOVT.B.C.BOYS HOSTEL NO-2 ELURU                    | 0401-2503-009   | 10     
+2026-06-03 13:24:05  GOVT.B.C COLLEGE GIRLS HOSTEL-II,ELURU             | 0401-2503-010   | 9      
+2026-06-03 13:24:05  SW BOYS HOSTEL, BHIMADOLE                          | 0404-2402-001   | 10     
+2026-06-03 13:24:05  SW IWHC FOR GIRLS, CHINTALAPUDI                    | 0405-2402-004   | 30     
+2026-06-03 13:24:05  SW BOYS HOSTEL, PRAGADAVARAM                       | 0405-2402-005   | 10     
+2026-06-03 13:24:05  SW BOYS HOSTEL, DHARMAJI GUDEM                     | 0405-2402-008   | 20     
+2026-06-03 13:24:05  SW BOYS HOSTEL, SINGAGUDEM                         | 0405-2402-010   | 10     
+2026-06-03 13:24:05  SW BOYS HOSTEL, KAMAVARAPUKOTA                     | 0405-2402-012   | 10     
+2026-06-03 13:24:05  SW GIRLS HOSTEL, KAMAVARAPUKOTA                    | 0405-2402-013   | 10     
+2026-06-03 13:24:05  SW BOYS HOSTEL, BUTTAIGUDEM                        | 0407-2402-002   | 10     
+2026-06-03 13:24:05  SW GIRLS HOSTEL, KOYYALAGUDEM                      | 0407-2402-008   | 20     
+2026-06-03 13:24:05  SW BOYS HOSTEL, KANNAPURAM                         | 0407-2402-021   | 18     
+2026-06-03 13:24:05  SW COLLEGE GIRLS HOSTEL JANGAREDDIGUDEM            | 0407-2402-026   | 10     
+2026-06-03 13:24:05  SW COLLEGE BOYS HOSTEL JANGAREDDIGUDEM             | 0407-2402-027   | 10     
+2026-06-03 13:24:05  SW BOYS HOSTEL, PARIMELLA                          | 0414-2402-015   | 10     
+2026-06-03 13:24:05  GTW ASHRAM SCHOOL(GIRLS) KUKUNURU                  | 0416-2403-003   | 10     
+2026-06-03 13:24:05  BC COLLEGE BOYS HOSTEL, MACHILIPATNAM              | 0501-2503-003   | 10     
+2026-06-03 13:24:05  SW COLLEGE GIRLS HOSTEL AVANIGADDA                 | 0502-2402-010   | 10     
+2026-06-03 13:24:05  BC GIRLS HOSTEL, AVANIGADDA                        | 0502-2501-008   | 10     
+2026-06-03 13:24:05  BC COLLEGE BOYS HOSTEL, BANTUMILLI                 | 0504-2503-001   | 10     
+2026-06-03 13:24:05  BC COLLEGE GIRLS  HOSTEL, GUDIVADA                 | 0506-2503-001   | 10     
+2026-06-03 13:24:05  BC COLLEGE BOYS HOSTEL, GUDLAVALLERU               | 0506-2503-003   | 10     
+2026-06-03 13:24:05  S.W.B.H., VATSAVAI                                 | 0507-2402-003   | 10     
+2026-06-03 13:24:05  GOVT.S.W.I.W.H.C.(B), NUZVIDU                      | 0512-2402-003   | 30     
+2026-06-03 13:24:05  S.W.G.H.NO.1, NUZVIDU                              | 0512-2402-007   | 10     
+2026-06-03 13:24:05  S.W.G.H., MUSUNURU                                 | 0512-2402-010   | 10     
+2026-06-03 13:24:05  GOVT SW IWHC (BOYS )GAMPALAGUDEM                   | 0514-2402-004   | 20     
+2026-06-03 13:24:05  GTW ASHRAM SCHOOL(BOYS) A.KONDURU                  | 0514-2403-001   | 10     
+2026-06-03 13:24:05  S.W.G.H., KASTURIBAIPETA, VIJAYAWADA               | 0516-2402-011   | 20     
+2026-06-03 13:24:05  SOCIAL WELFARE GIRLS HOSTEL PRATHIPADU             | 0601-2402-008   | 10     
+2026-06-03 13:24:05  S.W.COLLEGE BOYS HOSTEL I HEYER HALL COMPOUND      | 0601-2402-025   | 30     
+2026-06-03 13:24:05  S.W.COLLEGE BOYS HOSTEL- II HEYER HALL COMPOUND    | 0601-2402-028   | 30     
+2026-06-03 13:24:05  GTW HOSTEL(GIRLS) GUNTUR                           | 0601-2403-004   | 10     
+2026-06-03 13:24:05  GTW INTEGRATED WELFARE HOSTELS COMPLEX(GIRLS), B   | 0602-2403-006   | 10     
+2026-06-03 13:24:05  GOVT.B.C.BOYS HOSTEL-1, BAPATLA.                   | 0602-2503-002   | 10     
+2026-06-03 13:24:05  GOVT B.C.COLLEGE BOYS HOSTEL  CHILAKALURIPET       | 0603-2503-004   | 10     
+2026-06-03 13:24:05  GOVT.B.C.COLLEGE BOYS HOSTEL ,NARASARAOPET         | 0610-2503-006   | 9      
+2026-06-03 13:24:05  SOCIAL WELFARE GIRLS HOSTEL-I REPALLE              | 0614-2402-004   | 30     
+2026-06-03 13:24:05  SW COLLEGE GIRLS HOSTEL-2, REPALLE                 | 0614-2402-013   | 10     
+2026-06-03 13:24:05  GOVT. B.C. COLLEGE GIRLS HOSTEL, TENALI            | 0616-2503-005   | 10     
+2026-06-03 13:24:05  GOVT.B.C.COLLEGE BOYS HOSTEL-PONNUR                | 0617-2503-007   | 10     
+2026-06-03 13:24:05  GOVT SW GIRLS HOSTEL, CHIMAKURTHY                  | 0701-2402-018   | 40     
+2026-06-03 13:24:05  GOVT SW BOYS HOSTEL, MADDIPADU                     | 0701-2402-019   | 10     
+2026-06-03 13:24:05  GOVT SW COLLEGE BOYS HOSTEL -II ONGOLE             | 0701-2402-047   | 10     
+2026-06-03 13:24:05  GOVT SW COLLEGE GIRLS HOSTEL-II, ONGOLE            | 0701-2402-048   | 9      
+2026-06-03 13:24:05  GOVT SW COLLEGE GIRLS HOSTEL-III, ONGOLE           | 0701-2402-049   | 41     
+2026-06-03 13:24:05  GOVT SW BOYS HOSTEL-I, CUMBUM                      | 0704-2402-003   | 20     
+2026-06-03 13:24:05  GOVT SW BOYS HOSTEL-2  CUMBUM                      | 0704-2402-004   | 20     
+2026-06-03 13:24:05  GOVT SW BOYS HOSTEL, BESTHAVARIPETA                | 0704-2402-005   | 10     
+2026-06-03 13:24:05  GOVT SW COLLEGE GIRLS HOSTEL, CUMBUM               | 0704-2402-013   | 10     
+2026-06-03 13:24:05  GOVT. B.C.BOYS HOSTEL-BESTAVARI PETA               | 0704-2503-002   | 10     
+2026-06-03 13:24:05  GOVT SW BOYS HOSTEL-II, DARSI                      | 0705-2402-002   | 10     
+2026-06-03 13:24:05  GOVT SW  BOYS HOSTEL-I, DONAKONDA                  | 0705-2402-005   | 10     
+2026-06-03 13:24:05  GOVT SW BOYS HOSTEL-I, GIDDALUR                    | 0706-2402-003   | 9      
+2026-06-03 13:24:05  SW GIRLS HOSTEL BESTHAVARIPETA                     | 07062402004_1   | 10     
+2026-06-03 13:24:05  GOVT SW COLLEGE BOYS HOSTEL, KANDUKUR              | 0707-2402-020   | 10     
+2026-06-03 13:24:05  GOVT. B.C.GIRLS HOSTEL,SEELAMVARIPALLI             | 0708-2503-003   | 10     
+2026-06-03 13:24:05  GOVT. B.C.BOYS HOSTEL,II - PAMUR                   | 0708-2503-004   | 19     
+2026-06-03 13:24:05  GOVT SW BOYS HOSTEL, GAJJALAKONDA                  | 0709-2402-001   | 30     
+2026-06-03 13:24:05  GOVT SW BOYS HOSTEL, Y.D.PADU                      | 0709-2402-002   | 10     
+2026-06-03 13:24:05  GOVT SW BOYS HOSTEL TARLUPADU                      | 0709-2402-008   | 10     
+2026-06-03 13:24:05  GOVT SW BOYS HOSTEL, TRIPURANTHAKAM                | 0713-2402-008   | 10     
+2026-06-03 13:24:05  GOVT SW GIRLS HOSTEL TRIPURANTHAKAM                | 0713-2402-009   | 10     
+2026-06-03 13:24:05  GTW ASHRAM SCHOOL(GIRLS) GOLAGAMUDI                | 0801-0308-009   | 9      
+2026-06-03 13:24:05  SWBH.NO.1, NELLORE                                 | 0801-2402-003   | 10     
+2026-06-03 13:24:05  SWGH. No.1, NELLORE                                | 0801-2402-012   | 19     
+2026-06-03 13:24:05  GTW PM COLLEGE HOSTEL(BOYS) NELLORE                | 0801-2403-015   | 10     
+2026-06-03 13:24:05  SWGH.NO.1, MANUBOLU                                | 0803-2402-021   | 27     
+2026-06-03 13:24:05  GTW PM COLLEGE HOSTEL(GIRLS) GUDUR                 | 0803-2403-014   | 19     
+2026-06-03 13:24:05  GOVT.B.C.BOYS HOSTEL,GUDUR                         | 0803-2503-008   | 19     
+2026-06-03 13:24:05  GOVT B.C GIRLS HOSTEL,GUDUR                        | 0803-2503-010   | 18     
+2026-06-03 13:24:05  GOVT B.C BOYS HOSTEL,ATTIVARAM                     | 0803-2503-022   | 10     
+2026-06-03 13:24:05  SWBH, REVURU                                       | 0804-2402-014   | 10     
+2026-06-03 13:24:05  SW COLLEGE BOYS HOSTEL ATMAKUR                     | 0804-2402-018   | 10     
+2026-06-03 13:24:05  GOVT. B.C. COLLEGE GIRLS HOSTEL, ATMAKUR           | 0804-2503-001   | 10     
+2026-06-03 13:24:05  SWBH.NO.3, KAVALI                                  | 0805-2402-003   | 10     
+2026-06-03 13:24:05  SWGH.NO.2, KOVUR                                   | 0806-2402-034   | 10     
+2026-06-03 13:24:05  SWBH, SULLURPET                                    | 0808-2402-009   | 10     
+2026-06-03 13:24:05  SWGH. YEKOLLU AT D.V.SATRAM                        | 0808-2402-014   | 10     
+2026-06-03 13:24:05  GOVT. B.C. GIRLS HOSTEL, SULLURPET                 | 0808-2503-004   | 10     
+2026-06-03 13:24:05  SWBH.NO.2, VENKATAGIRI                             | 0810-2402-003   | 19     
+2026-06-03 13:24:05  SWBH.NO.3, VENKATAGIRI                             | 0810-2402-004   | 8      
+2026-06-03 13:24:05  SW ANANDANILAYAM (BOYS), VENKATAGIRI               | 0810-2402-012   | 10     
+2026-06-03 13:24:05  GOVT. B.C. BOYS HOSTEL, DAKKILI                    | 0810-2503-004   | 10     
+2026-06-03 13:24:05  SWGH, DACHURU AT PODALAKUR                         | 0812-2402-018   | 8      
+2026-06-03 13:24:05  GOVT. B.C. BOYS HOSTEL NO. 1, M.M. PURAM           | 0812-2503-005   | 16     
+2026-06-03 13:24:05  GOVT. B.C. GIRLS HOSTEL, PODALAKUR                 | 0812-2503-008   | 9      
+2026-06-03 13:24:05  SWBH.NO.1, NAIDUPETA                               | 0813-2402-004   | 10     
+2026-06-03 13:24:05  SWGH.NO.2,  NAIDUPETA                              | 0813-2402-010   | 76     
+2026-06-03 13:24:05  SWGH.NO.1, NAIDUPETA                               | 0813-2402-011   | 20     
+2026-06-03 13:24:05  SWGH, RAPURU                                       | 0814-2402-011   | 10     
+2026-06-03 13:24:05  IWBHC, RAPUR                                       | 0814-2402-029   | 6      
+2026-06-03 13:24:05  SWGH, CHITTEDU                                     | 0816-2402-020   | 10     
+2026-06-03 13:24:05  SWGH.NO.1, KOTA                                    | 0816-2402-021   | 10     
+2026-06-03 13:24:05  GOVT.B.C.BOYS HOSTEL, CHITTAMURU                   | 0816-2503-002   | 10     
+2026-06-03 13:24:05  SW BOYS HOSTEL GARGEYAPURAM                        | 0901-2402-006   | 10     
+2026-06-03 13:24:05  SW GIRLS HOSTEL ORVAKAL                            | 0901-2402-007   | 60     
+2026-06-03 13:24:05  GOVT SW BOYS HOSTEL, PEDDAPADU                     | 0901-2402-011   | 19     
+2026-06-03 13:24:05  Govt. SW Girls Hostel, Ullindakonda                | 0901-2402-012   | 80     
+2026-06-03 13:24:05  GOVT. SW ANANDANILAYAM (GIRLS), KURNOOL            | 0901-2402-015   | 10     
+2026-06-03 13:24:05  GOVT BC BOYS HOSTEL, KURNOOL                       | 0901-2503-005   | 40     
+2026-06-03 13:24:05  GOVT BC BOYS HOSTEL MEEDIVEMULA                    | 0901-2503-013   | 10     
+2026-06-03 13:24:05  SW BOYS HOSTEL NO.I ADONI                          | 0902-2402-002   | 10     
+2026-06-03 13:24:05  INTEGRATED WELFARE HOSTEL COMPLEX FOR GIRLS ADON   | 0902-2402-008   | 10     
+2026-06-03 13:24:05  SW COLLEGE GIRLS HOSTEL NO.2 ADONI                 | 0902-2402-010   | 10     
+2026-06-03 13:24:05  SW GIRLS HOSTEL ALUR                               | 0904-2402-003   | 10     
+2026-06-03 13:24:05  GTW ASHRAM SCHOOL(BOYS) ALUR                       | 0904-2403-002   | 10     
+2026-06-03 13:24:05  SW GIRLS HOSTEL PAMULAPADU                         | 0905-2402-007   | 10     
+2026-06-03 13:24:05  GTW ASHRAM SCHOOL(GIRLS) KOTTALACHERUVU            | 0905-2403-001   | 11     
+2026-06-03 13:24:05  GOVT BC BOYS HOSTEL KOTHAPALLI KURNOOL             | 0905-2503-002   | 10     
+2026-06-03 13:24:05  GOVT BC BOYS HOSTEL I KOTHAPETA KURNOOL            | 0906-2503-003   | 10     
+2026-06-03 13:24:05  GOVERNMENT SW GIRLS HOSTEL , DHONE                 | 0907-2402-003   | 30     
+2026-06-03 13:24:05  GOVERNMENT SW BOYS HOSTEL, KAMBALAPADU             | 0907-2402-005   | 20     
+2026-06-03 13:24:05  SW BOYS HOSTEL YERUKALACHERUVU                     | 0907-2402-006   | 10     
+2026-06-03 13:24:05  GTW ASHRAM SCHOOL(BOYS) ALEBAD THANDA              | 0907-2403-001   | 10     
+2026-06-03 13:24:05  GOVT BC BOYS HOSTEL, PEAPULLY                      | 0907-2503-004   | 10     
+2026-06-03 13:24:05  GOVT BC PREMATRIC BOYS HOSTEL, KAMBALAPADU         | 0907-2503-008   | 10     
+2026-06-03 13:24:05  INTEGRATED WELFARE HOSTEL COMPLEX FOR BOYS GUDUR   | 0908-2402-001   | 20     
+2026-06-03 13:24:05  GOVT. SW BOYS HOSTLE, C-BELAGAL                    | 0908-2402-003   | 29     
+2026-06-03 13:24:05  SW GIRLS HOSTEL GUDUR                              | 0908-2402-004   | 19     
+2026-06-03 13:24:05  SW GIRLS HOSTEL KODUMUR                            | 0908-2402-005   | 10     
+2026-06-03 13:24:05  GOVT BC BOYS HOSTEL LADDAGIRI NO.II, KURNOOL       | 0908-2503-005   | 10     
+2026-06-03 13:24:05  GOVT BC BOYS HOSTEL, C.BELGAL                      | 0908-2503-006   | 10     
+2026-06-03 13:24:05  SW GIRLS HOSTEL JUPADU BUNGALOW                    | 0911-2402-005   | 29     
+2026-06-03 13:24:05  SW COLLEGE GIRLS HOSTEL NO.1 NANDYALA              | 0912-2402-013   | 10     
+2026-06-03 13:24:05  GTW ASHRAM SCHOOL(GIRLS) PANYAM                    | 0912-2403-005   | 10     
+2026-06-03 13:24:05  GOVT BC BOYS HOSTEL BANDI ATMAKUR                  | 0912-2503-005   | 10     
+2026-06-03 13:24:05  SW Integrated Welfare Hostel Complex, Pathikonda   | 0913-2402-001   | 51     
+2026-06-03 13:24:05  Govt. SW Boys Hostel No.2, Pathikonda              | 0913-2402-002   | 30     
+2026-06-03 13:24:05  Govt. SW Girls Hostel, Pathikonda                  | 0913-2402-003   | 10     
+2026-06-03 13:24:05  GOVT SW HOSTEL RS PENDEKAL                         | 0913-2402-007   | 10     
+2026-06-03 13:24:05  IWHC NANDAVARAM                                    | 0914-2402-003   | 10     
+2026-06-03 13:24:05  GOVT BC GIRLS HOSTEL, GONEGANDLA                   | 0914-2503-004   | 10     
+2026-06-03 13:24:05  Govt. SW Boys Hostel No.4, Anantapur               | 1001-2402-004   | 30     
+2026-06-03 13:24:05  Govt. SW Girls Hostel No.1, Anantapur              | 1001-2402-005   | 10     
+2026-06-03 13:24:05  Govt. SW Girls Hostel No.2, Anantapur              | 1001-2402-006   | 40     
+2026-06-03 13:24:05  Govt. SW Boys Hostel,Bukkarasamudram               | 1001-2402-007   | 10     
+2026-06-03 13:24:05  Govt SC College Girls Hostel-1 Anantapur           | 1001-2402-013   | 10     
+2026-06-03 13:24:05  Govt SC College Girls Hostel-2 Anantapur           | 1001-2402-016   | 20     
+2026-06-03 13:24:05  Govt SC College Boys Hostel No-2 Anantapur         | 1001-2402-018   | 10     
+2026-06-03 13:24:05  Govt SC College Girls Hostel No.4 Anantapur        | 1001-2402-022   | 39     
+2026-06-03 13:24:05  GOVT B.C GIRLS HOSTEL II ANANTHAPURAMU             | 1001-2503-004   | 10     
+2026-06-03 13:24:05  GOVT B.C COLLEGE GIRLS HOSTEL ANANTHAPURAMU (URB   | 1001-2503-016   | 10     
+2026-06-03 13:24:05  Govt. SW Boys Hostel, Chennekothapalli             | 1003-2402-005   | 10     
+2026-06-03 13:24:05  Govt SW Girls Hostel, CK Palli                     | 1003-2402-006   | 11     
+2026-06-03 13:24:05  GOVT B.C BOYS HOSTEL KANAGANPALLI                  | 1003-2503-005   | 39     
+2026-06-03 13:24:05  GOVT B.C COLLEGE BOYS HOSTEL DHARMAVARAM           | 1003-2503-010   | 10     
+2026-06-03 13:24:05  Govt. SW Boys Hostel No.1, Gooty                   | 1004-2402-001   | 10     
+2026-06-03 13:24:05  Govt. SW GirlsHostel Peddavadaguru                 | 1004-2402-011   | 10     
+2026-06-03 13:24:05  Govt. SW Boys Hostel,  Konakondla                  | 1005-2402-004   | 10     
+2026-06-03 13:24:05  GOVT B.C GIRLS HOSTEL KADIRI                       | 1007-2503-018   | 10     
+2026-06-03 13:24:05  GOVT SW BOYS HOSTEL NO-3 KALYANADURG               | 1008-2402-003   | 10     
+2026-06-03 13:24:05  Govt. SW Girls Hostel No.1, Kalyandurg             | 1008-2402-009   | 10     
+2026-06-03 13:24:05  Govt SW Girls Hostel No.2, Kalyandurg              | 1008-2402-010   | 10     
+2026-06-03 13:24:05  Govt SW Boys Hostel, Settur                        | 1008-2402-011   | 10     
+2026-06-03 13:24:05  Govt SW Boys Hostel, Bramhasamudram                | 1008-2402-012   | 10     
+2026-06-03 13:24:05  SC COLLEGE BOYS HOSTEL KALYANDURG                  | 1008-2402-014   | 41     
+2026-06-03 13:24:05  GOVT B.C COLLEGE BOYS HOSTEL KALYANDURG            | 1008-2503-007   | 10     
+2026-06-03 13:24:05  GOVT B.C GIRLS HOSTEL NUTHIMADUGU                  | 1008-2503-009   | 30     
+2026-06-03 13:24:05  Govt. SW Boys Hostel No.1, Kambadur                | 1009-2402-001   | 30     
+2026-06-03 13:24:05  GOVT B.C BOYS HOSTEL KANEKAL                       | 1010-2503-002   | 10     
+2026-06-03 13:24:05  Govt SW Girls Hostel, Amarapuram                   | 1012-2402-007   | 7      
+2026-06-03 13:24:05  GOVT B.C GIRLS HOSTEL MADAKASIRA                   | 1012-2503-001   | 10     
+2026-06-03 13:24:05  Govt. SW Girls Hostel, Rayadurg                    | 1014-2402-004   | 10     
+2026-06-03 13:24:05  Govt. SW Boys Hostel, Singanamala                  | 1015-2402-001   | 10     
+2026-06-03 13:24:05  GOVT B.C GIRLS HOSTEL NARPALA                      | 1015-2503-002   | 20     
+2026-06-03 13:24:05  Govt. SW Girls Hostel, Tadipatri                   | 1016-2402-004   | 10     
+2026-06-03 13:24:05  Govt. SW Boys Hostel, Chukkaluru                   | 1016-2402-006   | 10     
+2026-06-03 13:24:05  GOVT B.C COLLEGE BOYS HOSTEL TADIPATRI             | 1016-2503-008   | 10     
+2026-06-03 13:24:05  Govt. SW Boys Hostel No.2, Uravakonda              | 1017-2402-002   | 20     
+2026-06-03 13:24:05  GTW ASHRAM SCHOOL(BOYS) NALLAMADA                  | 1018-2403-003   | 20     
+2026-06-03 13:24:05  GOVT [SW] GIRLS HOSTEL - IRALA                     | 1101-2402-011   | 10     
+2026-06-03 13:24:05  GOVT [SW]  BOYS HOSTEL - PENUMUR(Spl.)             | 1101-2402-026   | 10     
+2026-06-03 13:24:05  GOVT SW BOYS HOSTEL - UGRANAMPALLE SPL             | 1101-2402-028   | 10     
+2026-06-03 13:24:05  GOVT.SWCOLLEGE GIRLS HOSTELNO.2 CHITTOOR           | 1101-2402-042   | 9      
+2026-06-03 13:24:05  GOVT.SW COLLEGE GIRLS HOSTEL, PUTHALAPATTU         | 1101-2402-044   | 10     
+2026-06-03 13:24:05  GOVT [BC] COLLEGE GIRLS HOSTEL - PUTHALAPATTU      | 1101-2503-010   | 10     
+2026-06-03 13:24:05  GOVT.SW COLLEGE BOYS HOSTEL KUPPAM                 | 1105-2402-007   | 10     
+2026-06-03 13:24:05  GOVT. SW COLLEGE GIRLS HOSTEL KUPPAM               | 1105-2402-008   | 10     
+2026-06-03 13:24:05  GOVT [SW] GIRLS HOSTEL NO.1 - MADANAPALLE [SPL]    | 1106-2402-005   | 10     
+2026-06-03 13:24:05  GOVT [SW] BOYS HOSTEL NO.3 - MADANAPALLE [SPL]     | 1106-2402-009   | 20     
+2026-06-03 13:24:05  GOVT.SW COLLEGE GIRLS HOSTEL MADANAPALLE           | 1106-2402-012   | 9      
+2026-06-03 13:24:05  GOVT [BC] COLLEGE BOYS HOSTEL - NAGARI             | 1107-2503-007   | 10     
+2026-06-03 13:24:05  GOVT [SW] GIRLS HOSTEL - PALAMANER [SPL]           | 1109-2402-002   | 8      
+2026-06-03 13:24:05  GOVT [SW] BOYS HOSTEL NO.1 - PALAMANER [SPL]       | 1109-2402-003   | 10     
+2026-06-03 13:24:05  GOVT [SW] BOYS HOSTEL - BAIREDDIPALLE              | 1109-2402-006   | 10     
+2026-06-03 13:24:05  GOVT [SW] BOYS HOSTEL - KOLAMASANAPALLE            | 1109-2402-007   | 61     
+2026-06-03 13:24:05  GOVT [BC] COLLEGE GIRLS HOSTEL -  PALAMANER        | 1109-2503-004   | 20     
+2026-06-03 13:24:05  GOVT [BC] COLLEGE BOYS HOSTEL - PALAMANER          | 1109-2503-005   | 10     
+2026-06-03 13:24:05  GOVT [SW] BOYS HOSTEL - GYARAMPALLE                | 1110-2402-003   | 10     
+2026-06-03 13:24:05  GOVT [SW] BOYS HOSTEL - K.V.PALLE                  | 1110-2402-010   | 20     
+2026-06-03 13:24:05  GOVT [BC] BOYS HOSTEL -  ROMPICHERLA               | 1110-2503-002   | 19     
+2026-06-03 13:24:05  GOVT [SW] BOYS HOSTEL - CHOWDEPALLE [SPL]          | 1111-2402-006   | 10     
+2026-06-03 13:24:05  GOVT [SW] BOYS HOSTEL - PUNGANUR [SPL]             | 1111-2402-010   | 29     
+2026-06-03 13:24:05  GOVT [BC] BOYS HOSTEL -  PUNGANUR                  | 1111-2503-001   | 10     
+2026-06-03 13:24:05  GOVT [SW] BOYS HOSTEL - PALAMANGALAM [SPL]         | 1112-2402-013   | 19     
+2026-06-03 13:24:05  GOVT [SW] BOYS HOSTEL - DEVALAMPETA [SPL]          | 1112-2402-015   | 20     
+2026-06-03 13:24:05  GOVT SW COLLEGE BOYS HOSTEL, K.NAGAR               | 1112-2402-021   | 20     
+2026-06-03 13:24:05  GOVT [SW] BOYS HOSTEL - NAGALAPURAM                | 1113-2402-003   | 20     
+2026-06-03 13:24:05  GOVT [SW] BOYS HOSTEL - SANTHAVELLORE              | 1113-2402-007   | 20     
+2026-06-03 13:24:05  GOVT [SW] BOYS HOSTEL - VARADAIAHPALEM [SPL]       | 1113-2402-008   | 10     
+2026-06-03 13:24:05  GOVT [BC] BOYS HOSTEL -  SATHYAVEDU                | 1113-2503-001   | 10     
+2026-06-03 13:24:05  GOVT [BC] GIRLS HOSTEL -  SATHYAVEDU               | 1113-2503-003   | 9      
+2026-06-03 13:24:05  GOVT [SW] GIRLS HOSTEL NO.1 - SRIKALAHASTI [SPL]   | 1114-2402-002   | 7      
+2026-06-03 13:24:05  GOVT [SW] GIRLS HOSTEL NO.2 - SRIKALAHASTI         | 1114-2402-003   | 10     
+2026-06-03 13:24:05  GOVT [SW] BOYS HOSTEL - PALLAM                     | 1114-2402-008   | 10     
+2026-06-03 13:24:05  GOVT [BC] COLLEGE GIRLS HOSTEL - SRIKALAHASTI      | 1114-2503-004   | 10     
+2026-06-03 13:24:05  GOVT [SW] BOYS IWHC - TIRUPATI  [SPL]              | 1116-2402-009   | 19     
+2026-06-03 13:24:05  GOVT SW COLLEGE HOSTEL FOR GIRLS NO. 1 TIRUPATHI   | 1116-2402-013   | 20     
+2026-06-03 13:24:05  GTW PM HOSTEL(BOYS) TIRUPATHI                      | 1116-2403-004   | 10     
+2026-06-03 13:24:05  GTW PM HOSTEL(GIRLS) TIRUPATHI                     | 1116-2403-005   | 10     
+2026-06-03 13:24:05  GOVT [SW] BOYS HOSTEL - B.N.KANDRIGA [SPL]         | 1117-2402-006   | 10     
+2026-06-03 13:24:05  GOVT [BC] BOYS HOSTEL -  B.N.KANDRIGA              | 1117-2503-001   | 10     
+2026-06-03 13:24:05  GOVT [SW] BOYS HOSTEL - CHINTHAPARTHI [SPL]        | 1118-2402-005   | 30     
+2026-06-03 13:24:05  Govt SW COLLEGE BOYS HOSTEL Kadapa                 | 1201-2402-025   | 10     
+2026-06-03 13:24:05  GOVT SW COLLEGE GIRLS HOSTEL C K DINNE             | 1201-2402-027   | 9      
+2026-06-03 13:24:05  GOVT SW COLLEGE BOYS HOSTEL ,C K DINNE             | 1201-2402-028   | 10     
+2026-06-03 13:24:05  GOVT.S.W.BOYS HOSTEL NO.1, JAMMALAMADUGU           | 1204-2402-002   | 10     
+2026-06-03 13:24:05  GOVT SW COLLEGE BOYS HOSTEL JAMMALAMADUGU          | 1204-2402-010   | 10     
+2026-06-03 13:24:05  GOVT.S.W.BOYS HOSTEL NO.2, V.N.PALLI               | 1205-2402-009   | 11     
+2026-06-03 13:24:05  GOVT.S.W.GIRLS HOSTEL NO.1, PRODDATUR              | 1208-2402-016   | 10     
+2026-06-03 13:24:05  GOVT SW COLLEGE GIRLS HOSTEL PRODDATURU            | 1208-2402-019   | 10     
+2026-06-03 13:24:05  GOVT.S.W.BOYS HOSTEL NO.3, PULIVENDULA             | 1209-2402-005   | 10     
+2026-06-03 13:24:05  GOVT.S.W.BOYS HOSTEL NO.2, PULIVENDULA             | 1209-2402-009   | 10     
+2026-06-03 13:24:05  GOVT. B.C. BOYS HOSTEL, NALLAPUREDDIPALLI          | 1209-2503-004   | 10     
+2026-06-03 13:24:05  GOVT.INTEGRATED WELFARE BOYS HOSTEL COMPLEX, CHI   | 1210-2402-005   | 21     
+2026-06-03 13:24:05  GOVT. B. C GIRLS (IWHC) RAJAMPETA                  | 1211-2503-010   | 10     
+2026-06-03 13:24:05  GOVT.S.W.GIRLS HOSTEL NO.2, RAYACHOTY              | 1212-2402-012   | 10     
+2026-06-03 13:24:05  GOVT.B.C.COLLEGE GIRLS HOSTEL,RAYACHOTY            | 1212-2503-007   | 10     
+2026-06-03 13:24:05  GOVT. B.C. GIRLS HOSTEL, SARASWATHIPURAM           | 1213-2503-009   | 10     
+2026-06-03 13:24:05  GOVT.S.W.GIRLS HOSTEL, B.MATTAM                    | 1214-2402-006   | 21     
+2026-06-03 13:24:05  GOVT.S.W.BOYS HOSTEL, IWHC, B. MATTAM, MYDUKUR     | 1214-2402-018   | 50     
+2026-06-03 13:24:05  GOVT B C COLLEGE GIRLS HOSTEL MYDUKUR              | 1214-2503-010   | 20     
+2026-06-03 13:24:05  Govt.SW College Boys Hostel, Bobbili               | 2203-2402-009   | 10     
+2026-06-03 13:24:05  GOVT BC COLLEGE GIRLS HOSTEL, CHEEPURUPALLI        | 2204-2501-004   | 10     
+2026-06-03 13:24:05  GTW PM HOSTEL(GIRLS) G.L.PURAM                     | 2207-2403-041   | 10     
+2026-06-03 13:24:05  GTW PM HOSTEL(BOYS) G.L.PURAM                      | 2207-2403-042   | 9      
+2026-06-03 13:24:05  GTW ASHRAM SCHOOL(BOYS) PARVATHIPURAM              | 2209-2403-014   | 10     
+2026-06-03 13:24:05  KGBV SANTHAKAVITY                                  | 28111001804     | 10     
+2026-06-03 13:24:05  APTWRS(B),BHADRAGIRI                               | 28120207506     | 10     
+2026-06-03 13:24:05  APTWRJC(G),BHADRAGIRI                              | 28120207612     | 10     
+2026-06-03 13:24:05  EMRS(CO-EDU),KURUPAM                               | 28120305828     | 10     
+2026-06-03 13:24:05  MJPAPBCWR School (boys), KARADA, BOBBILI, VZM      | 28121000903     | 10     
+2026-06-03 13:24:05  APTWRJC(B),P.KONAVALASA                            | 28121200706     | 53     
+2026-06-03 13:24:05  KGBVTERLAM                                         | 28121502410     | 10     
+2026-06-03 13:24:05  KGBV M M DAM                                       | 28121601207     | 22     
+2026-06-03 13:24:05  EMRS(CO-EDU),PADERU                                | 28131210114     | 10     
+2026-06-03 13:24:05  EMRS(CO-EDU),KOYYURU                               | 28131210116     | 10     
+2026-06-03 13:24:05  KGBV NATHAVARAM                                    | 28131601211     | 20     
+2026-06-03 13:24:05  MJBCWREIS, Annavaram                               | 28132701304     | 10     
+2026-06-03 13:24:05  APR SCHOOL(G), TUNI                                | 28140601612     | 20     
+2026-06-03 13:24:05  APTWRS(G),BUTTAYYAGUDEM                            | 28150203103     | 10     
+2026-06-03 13:24:05  MJBCWREIS Gopalapuram                              | 28150501529     | 20     
+2026-06-03 13:24:05  APRS APPALARAJUGUDEM                               | 28150800404     | 40     
+2026-06-03 13:24:05  APRS NAGIREDDYGUDEM                                | 28150902824     | 8      
+2026-06-03 13:24:05  MJBCWREIS, Tadepalligudem                          | 28151800606     | 10     
+2026-06-03 13:24:05  APTWRS(G),VISSANNAPETA                             | 28161400933     | 20     
+2026-06-03 13:24:05  APRS VIJAYAWADA                                    | 28161791043     | 20     
+2026-06-03 13:24:05  APRS MUSUNURU                                      | 28162501010     | 60     
+2026-06-03 13:24:05  APRS MACHILIPATNAM                                 | 28163791212     | 11     
+2026-06-03 13:24:05  APRJC  NIMMAKURU                                   | 28163901137     | 10     
+2026-06-03 13:24:05  APRS NIMMAKURU                                     | 28163902606     | 10     
+2026-06-03 13:24:05  APRJC  NAGARJUNA SAGAR                             | 28170100225     | 20     
+2026-06-03 13:24:05  KGBV ATCHAMPET                                     | 28170700812     | 20     
+2026-06-03 13:24:05  APRS THADIKONDA                                    | 28171300615     | 19     
+2026-06-03 13:24:05  APRS GUNTUR (G)                                    | 28172691394     | 10     
+2026-06-03 13:24:05  APTWRS(G),TENALI                                   | 28173291122     | 10     
+2026-06-03 13:24:05  APRS CHILALURIPETA                                 | 28174590252     | 9      
+2026-06-03 13:24:05  Govt. Residential School and Junior College for    | 28175701708     | 10     
+2026-06-03 13:24:05  APTWRS(PTG-B),YERRAGONDAPALEM                      | 28180101718     | 10     
+2026-06-03 13:24:05  APTWRS(B),YERRAGONDAPALEM                          | 28180101763     | 10     
+2026-06-03 13:24:05  MJBCWREIS, Yerragondapalem                         | 28180101766     | 10     
+2026-06-03 13:24:05  KGBV MARKAPUR                                      | 28180990461     | 10     
+2026-06-03 13:24:05  KGBV-TARLUPADU                                     | 28181001415     | 10     
+2026-06-03 13:24:05  KGBV TALLURU                                       | 28181500516     | 18     
+2026-06-03 13:24:05  KGBV CHIRALA                                       | 28182390292     | 20     
+2026-06-03 13:24:05  APTWRS(B),CHIMAKURTHY                              | 28182901249     | 75     
+2026-06-03 13:24:05  KGBV  RACHARLA                                     | 28183501019     | 10     
+2026-06-03 13:24:05  APRS SANTHANUTALAPAD                               | 28184300713     | 30     
+2026-06-03 13:24:05  APRS AMMANABROLU                                   | 28184500810     | 10     
+2026-06-03 13:24:05  KGBV. KBITRAGUNTA                                  | 28184902010     | 6      
+2026-06-03 13:24:05  KGBV ULAVAPADU                                     | 28185500427     | 10     
+2026-06-03 13:24:05  MJBCWREIS Kanigiri                                 | 28187100303     | 7      
+2026-06-03 13:24:05  K.G.B.V.SCHOOL KAVALI                              | 28190501036     | 10     
+2026-06-03 13:24:05  KGBV KALIGIRI                                      | 28190700622     | 30     
+2026-06-03 13:24:05  EMRS(CO-EDU),KODAVALURU                            | 28191701107     | 20     
+2026-06-03 13:24:05  APTWRS(B),KODAVALURU                               | 28191701114     | 10     
+2026-06-03 13:24:05  APTWRS(G),RAPUR                                    | 28192303148     | 10     
+2026-06-03 13:24:05  APBCWRS ,GOLAGAMUDI                                | 28193000910     | 10     
+2026-06-03 13:24:05  MJPAPBCWRGudur                                     | 28193201409     | 29     
+2026-06-03 13:24:05  APTWRS(B),GUDURUatCHENNURU                         | 28193290191     | 19     
+2026-06-03 13:24:05  APRS VENKATAGIRI                                   | 28193504210     | 20     
+2026-06-03 13:24:05  KGBV VENKATAGIRI                                   | 28193590532     | 10     
+2026-06-03 13:24:05  MJPAPBCWR  Venkatagiri(B)                          | 28193590556     | 10     
+2026-06-03 13:24:05  APRS CHELAMANCHENU                                 | 28193702205     | 125    
+2026-06-03 13:24:05  EMRS(CO-EDU),OJILI                                 | 28193703508     | 10     
+2026-06-03 13:24:05  MJBCWREIS, Kota                                    | 28193901220     | 50     
+2026-06-03 13:24:05  APTWRS(G),KOTA                                     | 28193901242     | 10     
+2026-06-03 13:24:05  MJBCWREIS, Doravarisatram                          | 28194401709     | 95     
+2026-06-03 13:24:05  KGBV DORAVARISATRAM                                | 28194401713     | 24     
+2026-06-03 13:24:05  KGBV TADA                                          | 28194601605     | 31     
+2026-06-03 13:24:05  APRS MYLAVARAM                                     | 28200202406     | 10     
+2026-06-03 13:24:05  KGBV KALASAPADU                                    | 28200901813     | 10     
+2026-06-03 13:24:05  KGBV PORUMAMILLA                                   | 28201001239     | 20     
+2026-06-03 13:24:05  KGBV KHAJIPET                                      | 28201300733     | 10     
+2026-06-03 13:24:05  APTWRS(B),PULIVENDULA                              | 28202001494     | 10     
+2026-06-03 13:24:05  APRS MUKKAVARI PALLI                               | 28204400910     | 10     
+2026-06-03 13:24:05  KGBV PULLAMPET                                     | 28204500619     | 10     
+2026-06-03 13:24:05  APTWRS(B),T.SUNDUPALLI                             | 28204600252     | 10     
+2026-06-03 13:24:05  KGBV CHENNA REDDY NAGAR                            | 28204601311     | 10     
+2026-06-03 13:24:05  APTWRS(G),RAYACHOTI                                | 28204991610     | 51     
+2026-06-03 13:24:05  KGBVS VARIKUNTLA                                   | 28205102809     | 10     
+2026-06-03 13:24:05  KGBV KOWTHALAM                                     | 28210102719     | 10     
+2026-06-03 13:24:05  A.P MODEL SCHOOL NANDAVARAM                        | 28210401611     | 10     
+2026-06-03 13:24:05  KGBV  C.BELAGAL BC COLONY                          | 28210500913     | 20     
+2026-06-03 13:24:05  KGBV GUDUR                                         | 28210600629     | 20     
+2026-06-03 13:24:05  KGBV PAGIDYALA                                     | 28210900914     | 10     
+2026-06-03 13:24:05  APTWRS(G),BAIRLUTY                                 | 28211101203     | 10     
+2026-06-03 13:24:05  MJBCWREIS, Srisailam                               | 28211290808     | 70     
+2026-06-03 13:24:05  APTWRS(B),SRISAILAM                                | 28211290809     | 31     
+2026-06-03 13:24:05  KGBV VELGODE                                       | 28211300533     | 8      
+2026-06-03 13:24:05  KGBV  PAMULAPADU                                   | 28211400712     | 20     
+2026-06-03 13:24:05  KGBV MIDTHUR                                       | 28211600414     | 10     
+2026-06-03 13:24:05  KGBV  ORVAKAL                                      | 28211701111     | 11     
+2026-06-03 13:24:05  A.P MODEL SCHOOL ORVAKAL                           | 28211701115     | 18     
+2026-06-03 13:24:05  APRS KALVABUGGA                                    | 28211701707     | 40     
+2026-06-03 13:24:05  KGBV LAKSHMIPURAM KALLUR                           | 28211800465     | 20     
+2026-06-03 13:24:05  APRS KURNOOL (G)                                   | 28211800471     | 60     
+2026-06-03 13:24:05  APTWRS(G),KURNOOL                                  | 28211890570     | 10     
+2026-06-03 13:24:05  KGBV KODUMUR                                       | 28211900338     | 19     
+2026-06-03 13:24:05  MJBCWREIS, Gorantla                                | 28211900906     | 30     
+2026-06-03 13:24:05  APRS BANAVASI                                      | 28212101705     | 70     
+2026-06-03 13:24:05  APRJC  BANAVASI                                    | 28212101708     | 10     
+2026-06-03 13:24:05  APBCWRS ,AREKAL                                    | 28212391302     | 10     
+2026-06-03 13:24:05  KGBVMINORITY ADONI                                 | 28212391337     | 10     
+2026-06-03 13:24:05  KGBV HOLAGUNDA                                     | 28212401008     | 10     
+2026-06-03 13:24:05  APTWRS(G),ALURU                                    | 28212501425     | 11     
+2026-06-03 13:24:05  KGBV KRISHNAGIRI                                   | 28212800505     | 20     
+2026-06-03 13:24:05  KGBV VELDURTHY                                     | 28212901034     | 20     
+2026-06-03 13:24:05  MJBCWREIS, Veldurthy                               | 28212901039     | 28     
+2026-06-03 13:24:05  APBCWRS ,NERAWADA                                  | 28213100905     | 20     
+2026-06-03 13:24:05  A.P MODEL SCHOOL B.ATMAKUR                         | 28213300825     | 30     
+2026-06-03 13:24:05  APBCW Residential School Kothapeta                 | 28214403609     | 10     
+2026-06-03 13:24:05  AP MODEL SCHOOL OWK                                | 28214701025     | 10     
+2026-06-03 13:24:05  APRS PATHIKONDA                                    | 28215100728     | 10     
+2026-06-03 13:24:05  MJPAPBCWR School& Jr.College(B), Bhethamcherla     | 28217100352     | 20     
+2026-06-03 13:24:05  MJPAPBCWR School& Jr.College(G), Dhone             | 28217100353     | 40     
+2026-06-03 13:24:05  KGBV D.HIREHAL                                     | 28220100410     | 10     
+2026-06-03 13:24:05  KGBV BOMMANAHAL                                    | 28220200506     | 9      
+2026-06-03 13:24:05  KGBV VIDAPANAKA                                    | 28220300807     | 10     
+2026-06-03 13:24:05  KGBV  VAJRAKARUR                                   | 28220400410     | 10     
+2026-06-03 13:24:05  KGBV RAJAPURAM                                     | 28220600904     | 30     
+2026-06-03 13:24:05  APTWURJC(B),GOLLALADODDI                           | 28220601103     | 30     
+2026-06-03 13:24:05  APRS GOOTY                                         | 28220690323     | 20     
+2026-06-03 13:24:05  KGBV YADIKI                                        | 28220800338     | 10     
+2026-06-03 13:24:05  KGBV GEN TADIPATRI                                 | 28220902812     | 10     
+2026-06-03 13:24:05  KGBV PEDDAPAPPUR                                   | 28221001307     | 30     
+2026-06-03 13:24:05  MJBCWREIS Narsapuram @ Narpala                     | 28221101406     | 20     
+2026-06-03 13:24:05  KGBV PAMIDI                                        | 28221202031     | 10     
+2026-06-03 13:24:05  KGBV  GARLADINNE                                   | 28221301612     | 17     
+2026-06-03 13:24:05  KGBV KUDAIR                                        | 28221400909     | 20     
+2026-06-03 13:24:05  MJBCWREIS, Pennahobilum  @ Konakondla              | 28221591134     | 17     
+2026-06-03 13:24:05  KGBV  URAVAKONDA                                   | 28221591148     | 10     
+2026-06-03 13:24:05  APTWRS(G),URAVAKONDA                               | 28221591160     | 20     
+2026-06-03 13:24:05  KGBV BELUGUPPA                                     | 28221600313     | 10     
+2026-06-03 13:24:05  KGBV GUMMAGATTA                                    | 28221901107     | 10     
+2026-06-03 13:24:05  KGBV SETTUR                                        | 28222100112     | 7      
+2026-06-03 13:24:05  KGBV KUNDURPI                                      | 28222200716     | 40     
+2026-06-03 13:24:05  KGBV KALYANDURG                                    | 28222301034     | 10     
+2026-06-03 13:24:05  APRS ANANTAPUR                                     | 28222591338     | 20     
+2026-06-03 13:24:05  APTWRS(G),ANANTHAPUR                               | 28222591557     | 30     
+2026-06-03 13:24:05  APTWRS(B),B.K.SAMUDRAM                             | 28222601040     | 20     
+2026-06-03 13:24:05  KGBV  NARPALA                                      | 28222700422     | 30     
+2026-06-03 13:24:05  KGBV PUTLUR                                        | 28222800513     | 20     
+2026-06-03 13:24:05  KGBV BATHALAPALLE                                  | 28223100417     | 10     
+2026-06-03 13:24:05  APRS Kalayanadurgam                                | 28223400405     | 30     
+2026-06-03 13:24:05  KGBV KAMBADUR                                      | 28223400919     | 40     
+2026-06-03 13:24:05  APBCWRS ,PERURU                                    | 28223500114     | 40     
+2026-06-03 13:24:05  APBCWRS ,NASANNAKOTA                               | 28223500513     | 10     
+2026-06-03 13:24:05  MJBCWREIS, Regatapalli                             | 28223700809     | 20     
+2026-06-03 13:24:05  KGBV SIVANAGAR DMM                                 | 28223790296     | 20     
+2026-06-03 13:24:05  KGBV MUDIGUBBA ST                                  | 28223801523     | 10     
+2026-06-03 13:24:05  KGBV  TALUPULA                                     | 28223900526     | 10     
+2026-06-03 13:24:05  KGBV  N P IKUNTA                                   | 28224000412     | 20     
+2026-06-03 13:24:05  KGBV  TANAKAL                                      | 28224100329     | 10     
+2026-06-03 13:24:05  APTWRS(G),KADIRI                                   | 28224490736     | 9      
+2026-06-03 13:24:05  KGBV AMADAGUR                                      | 28224500617     | 20     
+2026-06-03 13:24:05  KGBV OBULADEVARACHERUVU                            | 28224600415     | 10     
+2026-06-03 13:24:05  APTWRS(G),GORANTLA                                 | 28224801952     | 10     
+2026-06-03 13:24:05  MJBCWREIS, Roddam                                  | 28225301128     | 10     
+2026-06-03 13:24:05  APBCWRS ,TEKLODU                                   | 28225501305     | 10     
+2026-06-03 13:24:05  APBCWRS ,LEPAKSHI                                  | 28225600316     | 40     
+2026-06-03 13:24:05  KGBV PARIGI                                        | 28225800922     | 10     
+2026-06-03 13:24:05  APRS KODIGENHALLI                                  | 28225801413     | 30     
+2026-06-03 13:24:05  APRJC  KODIGENAHALLI                               | 28225801420     | 20     
+2026-06-03 13:24:05  MJBCWREIS,Gundumala(B), Ananthapuramu              | 28225900925     | 10     
+2026-06-03 13:24:05  KGBV GUDIBANDA                                     | 28226000617     | 10     
+2026-06-03 13:24:05  MJBCWREIS,Gudibanda Ananthapuramu                  | 28226000622     | 40     
+2026-06-03 13:24:05  KGBV AMARAPURAM                                    | 28226100321     | 10     
+2026-06-03 13:24:05  KGBV ROLLA                                         | 28226300332     | 10     
+2026-06-03 13:24:05  KGBV SIDDAVARAM PEDDAMANDYAMMANDAL                 | 28230100706     | 24     
+2026-06-03 13:24:05  MJPBCWREIS, Thamballapalli                         | 28230200825     | 28     
+2026-06-03 13:24:05  KGBV VAGALLA                                       | 28230900913     | 20     
+2026-06-03 13:24:05  APTWRS(G),K.V.PALLI                                | 28230900917     | 10     
+2026-06-03 13:24:05  APRS GYARAMPALLI.                                  | 28230902108     | 20     
+2026-06-03 13:24:05  APTWRS(B),RENIGUNTA                                | 28231201902     | 24     
+2026-06-03 13:24:05  APTWRS(B),SRIKALAHASTHI                            | 28231491120     | 20     
+2026-06-03 13:24:05  APTWURJC(G),SRIKALAHASTHI                          | 28231491164     | 10     
+2026-06-03 13:24:05  EMRS(CO-EDU),B.N.KHANDRIGA                         | 28231601515     | 20     
+2026-06-03 13:24:05  MJBCWREIS, Satyaveedu(Fishermem)                   | 28231802003     | 49     
+2026-06-03 13:24:05  MJBCWREIS, Ithepally                               | 28232802005     | 49     
+2026-06-03 13:24:05  APBCWRS ,PILER                                     | 28233101177     | 10     
+2026-06-03 13:24:05  APTWRS(B),PILERU                                   | 28233101183     | 9      
+2026-06-03 13:24:05  MJPAPBCWRS GIRLS KALIKIRI                          | 28233201228     | 10     
+2026-06-03 13:24:05  APRS VAYALPADU                                     | 28233301426     | 10     
+2026-06-03 13:24:05  APTWRS(G),PUNGANUR                                 | 28233790884     | 10     
+2026-06-03 13:24:05  MJPAPBCWREIS, Sodum                                | 28234000615     | 30     
+2026-06-03 13:24:05  APRS CHITTOOR                                      | 28235400409     | 10     
+2026-06-03 13:24:05  APTWRS(G),CHITTOOR                                 | 28235492001     | 10     
+2026-06-03 13:24:05  KGBV GANGAVARAM                                    | 28235901420     | 40     
+2026-06-03 13:24:05  APRS KAMMANAPALLE                                  | 28236101106     | 20     
+2026-06-03 13:24:05  APTWRS(B),RARMAKUPPAM                              | 28236301202     | 49     
+2026-06-03 13:24:05  KGBV RAMAKUPPAM                                    | 28236302205     | 40     
+2026-06-03 13:24:05  KGBV GUDUPALLE                                     | 28236501605     | 10     
+2026-06-03 13:24:05  APMS GUDUPALLI                                     | 28236501804     | 10     
+2026-06-03 13:24:05  KGBV PARAMASAMUDRAM KUPPAMMANDAL                   | 28236601305     | 20     
+2026-06-03 13:24:05  MJPAPBCWR Kuppam(B)                                | 28236690461     | 20     
+2026-06-03 13:24:05  Residential School Principal Kuppam                | 28237101954     | 10     
+2026-06-03 13:24:05  MJPAPBCWR PITHAPURAM(G)                            | 28347101366     | 10     
+2026-06-03 13:24:05  APRDC  NAGARJUNA SAGAR                             | 52              | 10     
+2026-06-03 13:24:05  S.W.R GDC,KALIKIRI                                 | gdc_kalikiri    | 30     
+2026-06-03 13:24:05  SWR GOVT. DEGREE COLLEGE (G) KANCHIKACHERLA        | swrgdc_kanchi   | 10     
+2026-06-03 13:24:05  ------------------------------------------------------------------------------
+
+2026-06-03 13:24:05  [ACTIVE RUN] Deleting records...
+2026-06-03 13:24:05  [+] Successfully deleted 7723 records from the 'analytics' table.

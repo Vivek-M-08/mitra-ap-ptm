@@ -1,0 +1,1776 @@
+{
+    "complaint_stats": [
+        {
+            "district": "SPSR NELLORE",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,ADURUPALLI",
+            "category": "EDUCATION_QUALITY_RATING",
+            "theme": "Other Concerns",
+            "count": 21,
+            "severity": "High"
+        },
+        {
+            "district": "ANNAMAYYA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,MADANAPALLI (DPIP)",
+            "category": "EDUCATION_QUALITY_RATING",
+            "theme": "Other Concerns",
+            "count": 18,
+            "severity": "High"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,KORRAPADU",
+            "category": "EXTRACURRICULAR_RATING",
+            "theme": "Other Concerns",
+            "count": 17,
+            "severity": "High"
+        },
+        {
+            "district": "EAST GODAVARI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KOVVURU (BCRS)",
+            "category": "EXTRACURRICULAR_RATING",
+            "theme": "Other Concerns",
+            "count": 14,
+            "severity": "High"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,KORRAPADU",
+            "category": "EDUCATION_QUALITY_RATING",
+            "theme": "Other Concerns",
+            "count": 14,
+            "severity": "High"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,KORRAPADU",
+            "category": "OVERALL_SATISFACTION_RATING",
+            "theme": "Other Concerns",
+            "count": 11,
+            "severity": "High"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,KORRAPADU",
+            "category": "HEALTHCARE_RATING",
+            "theme": "Other Concerns",
+            "count": 11,
+            "severity": "High"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KURUGUNTA",
+            "category": "EDUCATION_QUALITY_RATING",
+            "theme": "Other Concerns",
+            "count": 11,
+            "severity": "High"
+        },
+        {
+            "district": "TIRUPATI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,SULURUPET",
+            "category": "EDUCATION_QUALITY_RATING",
+            "theme": "Other Concerns",
+            "count": 10,
+            "severity": "High"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,KORRAPADU",
+            "category": "DRINKING_WATER_RATING",
+            "theme": "Other Concerns",
+            "count": 10,
+            "severity": "High"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,KORRAPADU",
+            "category": "DIET_MENU_RATING",
+            "theme": "Other Concerns",
+            "count": 10,
+            "severity": "High"
+        },
+        {
+            "district": "NANDYAL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,LAXMAPURAM",
+            "category": "DRINKING_WATER_RATING",
+            "theme": "Other Concerns",
+            "count": 10,
+            "severity": "High"
+        },
+        {
+            "district": "TIRUPATI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CHILLAKUR",
+            "category": "EDUCATION_QUALITY_RATING",
+            "theme": "Other Concerns",
+            "count": 9,
+            "severity": "Medium"
+        },
+        {
+            "district": "KURNOOL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KURNOOL",
+            "category": "EDUCATION_QUALITY_RATING",
+            "theme": "Other Concerns",
+            "count": 8,
+            "severity": "Medium"
+        },
+        {
+            "district": "TIRUPATI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,DAKKILI",
+            "category": "EDUCATION_QUALITY_RATING",
+            "theme": "Other Concerns",
+            "count": 8,
+            "severity": "Medium"
+        },
+        {
+            "district": "KURNOOL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KURNOOL",
+            "category": "EXTRACURRICULAR_RATING",
+            "theme": "Other Concerns",
+            "count": 8,
+            "severity": "Medium"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,KORRAPADU",
+            "category": "SAFETY_MEASURES_RATING",
+            "theme": "Other Concerns",
+            "count": 8,
+            "severity": "Medium"
+        },
+        {
+            "district": "PRAKASAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,RACHERLA",
+            "category": "EDUCATION_QUALITY_RATING",
+            "theme": "Other Concerns",
+            "count": 8,
+            "severity": "Medium"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,KORRAPADU",
+            "category": "PRINCIPAL_SATISFACTION",
+            "theme": "Other Concerns",
+            "count": 8,
+            "severity": "Medium"
+        },
+        {
+            "district": "NANDYAL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,LAXMAPURAM",
+            "category": "DRINKING_WATER_RATING",
+            "theme": "Purifier/Filter Issues",
+            "count": 8,
+            "severity": "Medium"
+        },
+        {
+            "district": "SRI SATHYA SAI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,NALLAMADA",
+            "category": "EDUCATION_QUALITY_RATING",
+            "theme": "Other Concerns",
+            "count": 8,
+            "severity": "Medium"
+        },
+        {
+            "district": "SRI SATHYA SAI",
+            "school_name": "New Nabard School Hindupur",
+            "category": "EDUCATION_QUALITY_RATING",
+            "theme": "Other Concerns",
+            "count": 7,
+            "severity": "Medium"
+        },
+        {
+            "district": "TIRUPATI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CHILLAKUR",
+            "category": "DRINKING_WATER_RATING",
+            "theme": "Other Concerns",
+            "count": 7,
+            "severity": "Medium"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,KORRAPADU",
+            "category": "CARETAKER_SATISFACTION",
+            "theme": "Other Concerns",
+            "count": 7,
+            "severity": "Medium"
+        },
+        {
+            "district": "KURNOOL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KURNOOL",
+            "category": "DRINKING_WATER_RATING",
+            "theme": "Other Concerns",
+            "count": 7,
+            "severity": "Medium"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,GOOTY (DPIP)",
+            "category": "EDUCATION_QUALITY_RATING",
+            "theme": "Other Concerns",
+            "count": 7,
+            "severity": "Medium"
+        },
+        {
+            "district": "Y.S.R.",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KAMALAPURAM",
+            "category": "DRINKING_WATER_RATING",
+            "theme": "Other Concerns",
+            "count": 7,
+            "severity": "Medium"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KURUGUNTA",
+            "category": "EXTRACURRICULAR_RATING",
+            "theme": "Other Concerns",
+            "count": 6,
+            "severity": "Medium"
+        },
+        {
+            "district": "SRI SATHYA SAI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,HINDUPUR (DPIP)",
+            "category": "EDUCATION_QUALITY_RATING",
+            "theme": "Other Concerns",
+            "count": 6,
+            "severity": "Medium"
+        },
+        {
+            "district": "SRI SATHYA SAI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,NALLAMADA",
+            "category": "HEALTHCARE_RATING",
+            "theme": "Other Concerns",
+            "count": 6,
+            "severity": "Medium"
+        },
+        {
+            "district": "KURNOOL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KURNOOL",
+            "category": "DRINKING_WATER_RATING",
+            "theme": "Purifier/Filter Issues",
+            "count": 6,
+            "severity": "Medium"
+        },
+        {
+            "district": "Y.S.R.",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CHINNACHOWK",
+            "category": "DRINKING_WATER_RATING",
+            "theme": "Other Concerns",
+            "count": 6,
+            "severity": "Medium"
+        },
+        {
+            "district": "SPSR NELLORE",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,BUTCHIREDDIPALEM (BCRS)",
+            "category": "DRINKING_WATER_RATING",
+            "theme": "Other Concerns",
+            "count": 6,
+            "severity": "Medium"
+        },
+        {
+            "district": "NANDYAL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,LAXMAPURAM",
+            "category": "SAFETY_MEASURES_RATING",
+            "theme": "Other Concerns",
+            "count": 6,
+            "severity": "Medium"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,GOOTY (DPIP)",
+            "category": "DRINKING_WATER_RATING",
+            "theme": "Other Concerns",
+            "count": 5,
+            "severity": "Medium"
+        },
+        {
+            "district": "NANDYAL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,LAXMAPURAM",
+            "category": "PRINCIPAL_SATISFACTION",
+            "theme": "Other Concerns",
+            "count": 5,
+            "severity": "Medium"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,GOOTY (DPIP)",
+            "category": "PRINCIPAL_SATISFACTION",
+            "theme": "Other Concerns",
+            "count": 5,
+            "severity": "Medium"
+        },
+        {
+            "district": "EAST GODAVARI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KOVVURU (BCRS)",
+            "category": "EDUCATION_QUALITY_RATING",
+            "theme": "Other Concerns",
+            "count": 5,
+            "severity": "Medium"
+        },
+        {
+            "district": "SRI SATHYA SAI",
+            "school_name": "New Nabard School Rolla",
+            "category": "EDUCATION_QUALITY_RATING",
+            "theme": "Other Concerns",
+            "count": 5,
+            "severity": "Medium"
+        },
+        {
+            "district": "TIRUPATI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CHILLAKUR",
+            "category": "CARETAKER_SATISFACTION",
+            "theme": "Other Concerns",
+            "count": 5,
+            "severity": "Medium"
+        },
+        {
+            "district": "ANNAMAYYA",
+            "school_name": "Dr.B.R.Ambedkar Gurukulam for Boys, Ramapuram, Annamayya District.",
+            "category": "EDUCATION_QUALITY_RATING",
+            "theme": "Other Concerns",
+            "count": 5,
+            "severity": "Medium"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KURUGUNTA",
+            "category": "TEACHER_COMMUNICATION_RATING",
+            "theme": "Other Concerns",
+            "count": 5,
+            "severity": "Medium"
+        },
+        {
+            "district": "SRIKAKULAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,PATHAPATNAM (DPIP)",
+            "category": "EXTRACURRICULAR_RATING",
+            "theme": "Other Concerns",
+            "count": 5,
+            "severity": "Medium"
+        },
+        {
+            "district": "Y.S.R.",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CHINNACHOWK",
+            "category": "EXTRACURRICULAR_RATING",
+            "theme": "Other Concerns",
+            "count": 5,
+            "severity": "Medium"
+        },
+        {
+            "district": "KURNOOL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,ADHONI",
+            "category": "DRINKING_WATER_RATING",
+            "theme": "Other Concerns",
+            "count": 5,
+            "severity": "Medium"
+        },
+        {
+            "district": "KURNOOL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,ADHONI",
+            "category": "DRINKING_WATER_RATING",
+            "theme": "Purifier/Filter Issues",
+            "count": 5,
+            "severity": "Medium"
+        },
+        {
+            "district": "ANNAMAYYA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,VALMEEKIPURAM",
+            "category": "EDUCATION_QUALITY_RATING",
+            "theme": "Other Concerns",
+            "count": 5,
+            "severity": "Medium"
+        },
+        {
+            "district": "Y.S.R.",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CHINNACHOWK",
+            "category": "DIET_MENU_RATING",
+            "theme": "Other Concerns",
+            "count": 5,
+            "severity": "Medium"
+        },
+        {
+            "district": "PARVATHIPURAM MANYAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,GURUGUBILLI (DPIP)",
+            "category": "EDUCATION_QUALITY_RATING",
+            "theme": "Other Concerns",
+            "count": 5,
+            "severity": "Medium"
+        },
+        {
+            "district": "Y.S.R.",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,B MATTAM",
+            "category": "DRINKING_WATER_RATING",
+            "theme": "Purifier/Filter Issues",
+            "count": 5,
+            "severity": "Medium"
+        }
+    ],
+    "recurring_issues": [
+        {
+            "theme": "Other Concerns",
+            "category": "EDUCATION_QUALITY_RATING",
+            "districts_impacted": 21,
+            "schools_impacted": 89,
+            "frequency": 292,
+            "sample_summary": "Father"
+        },
+        {
+            "theme": "Other Concerns",
+            "category": "DRINKING_WATER_RATING",
+            "districts_impacted": 22,
+            "schools_impacted": 83,
+            "frequency": 198,
+            "sample_summary": "3 I am a patient of the kidney."
+        },
+        {
+            "theme": "Other Concerns",
+            "category": "EXTRACURRICULAR_RATING",
+            "districts_impacted": 23,
+            "schools_impacted": 82,
+            "frequency": 188,
+            "sample_summary": "12345 healthy and strong"
+        },
+        {
+            "theme": "Other Concerns",
+            "category": "CARETAKER_SATISFACTION",
+            "districts_impacted": 22,
+            "schools_impacted": 66,
+            "frequency": 140,
+            "sample_summary": "3, They are always cursing."
+        },
+        {
+            "theme": "Other Concerns",
+            "category": "OVERALL_SATISFACTION_RATING",
+            "districts_impacted": 21,
+            "schools_impacted": 69,
+            "frequency": 128,
+            "sample_summary": "It's good"
+        },
+        {
+            "theme": "Other Concerns",
+            "category": "TEACHER_COMMUNICATION_RATING",
+            "districts_impacted": 19,
+            "schools_impacted": 59,
+            "frequency": 121,
+            "sample_summary": "3. Lessons are not given in English to children and they are not taught to speak English."
+        },
+        {
+            "theme": "Other Concerns",
+            "category": "PRINCIPAL_SATISFACTION",
+            "districts_impacted": 19,
+            "schools_impacted": 60,
+            "frequency": 121,
+            "sample_summary": "5happy"
+        },
+        {
+            "theme": "Other Concerns",
+            "category": "SAFETY_MEASURES_RATING",
+            "districts_impacted": 21,
+            "schools_impacted": 61,
+            "frequency": 118,
+            "sample_summary": "12345 safe zoon"
+        },
+        {
+            "theme": "Other Concerns",
+            "category": "DIET_MENU_RATING",
+            "districts_impacted": 20,
+            "schools_impacted": 62,
+            "frequency": 116,
+            "sample_summary": "No test"
+        },
+        {
+            "theme": "Other Concerns",
+            "category": "HEALTHCARE_RATING",
+            "districts_impacted": 18,
+            "schools_impacted": 55,
+            "frequency": 111,
+            "sample_summary": "Very good and very safe"
+        },
+        {
+            "theme": "Purifier/Filter Issues",
+            "category": "DRINKING_WATER_RATING",
+            "districts_impacted": 12,
+            "schools_impacted": 34,
+            "frequency": 69,
+            "sample_summary": "2 because Drinking water not purifier and any thing damage not immediately repair that's all"
+        },
+        {
+            "theme": "Water Shortage",
+            "category": "DRINKING_WATER_RATING",
+            "districts_impacted": 6,
+            "schools_impacted": 12,
+            "frequency": 15,
+            "sample_summary": "No water fasetelus"
+        },
+        {
+            "theme": "Other Concerns",
+            "category": "CLEANLINESS_RATING",
+            "districts_impacted": 5,
+            "schools_impacted": 9,
+            "frequency": 15,
+            "sample_summary": "How satisfied are you with the cleanliness and hygiene maintained in the school premises? Please give a rating from 1 to 5, where 5 means 'Very Satisfied' and 1 means 'Very Dissatisfied.' 2"
+        },
+        {
+            "theme": "Poor Food Quality",
+            "category": "DIET_MENU_RATING",
+            "districts_impacted": 8,
+            "schools_impacted": 12,
+            "frequency": 14,
+            "sample_summary": "My rating ---1\n Very bad food"
+        },
+        {
+            "theme": "Lack of Menu Variety",
+            "category": "DIET_MENU_RATING",
+            "districts_impacted": 8,
+            "schools_impacted": 10,
+            "frequency": 12,
+            "sample_summary": "Menu is good"
+        },
+        {
+            "theme": "Lack of Medical Support",
+            "category": "HEALTHCARE_RATING",
+            "districts_impacted": 6,
+            "schools_impacted": 7,
+            "frequency": 9,
+            "sample_summary": "Madam my child is always healthful becouse the facilities of the college. The most important thing is medical facilities also available in the college. Thier is one health issue the teachers are react and giving medicine to the child,  giving rest and take care of her.. Thank you soo much"
+        },
+        {
+            "theme": "Security Gaps",
+            "category": "SAFETY_MEASURES_RATING",
+            "districts_impacted": 4,
+            "schools_impacted": 5,
+            "frequency": 5,
+            "sample_summary": "5Its Number One Security"
+        },
+        {
+            "theme": "Specific Item Issues",
+            "category": "DIET_MENU_RATING",
+            "districts_impacted": 4,
+            "schools_impacted": 5,
+            "frequency": 5,
+            "sample_summary": "3 Cook the rice a little better and give good rice."
+        },
+        {
+            "theme": "Teaching Quality Concerns",
+            "category": "EDUCATION_QUALITY_RATING",
+            "districts_impacted": 5,
+            "schools_impacted": 5,
+            "frequency": 5,
+            "sample_summary": "' Very satisfied '\u200bSince she is happy with the teaching at the Gurukula Patashala in Dhone, she already has the most important ingredient for success: a positive learning environment.\n\u200bHere is some \"satisfying information\" regarding the path she has chosen and why her current satisfaction is a great sign for her future.\n\u200bWhy Bi.P.C is a Great Choice\n\u200bThe Bi.P.C stream is highly respected because it develops both analytical thinking and scientific curiosity. Here are the primary paths she can look forward to:\n\u200bMedical Excellence: Beyond just MBBS (Doctor), she can explore BDS (Dental), BAMS (Ayurvedic), or BHMS (Homeopathy).\n\u200bSpecialized Sciences: B.Sc. in Agriculture, Biotechnology, or Food Science are booming industries with high job security.\n\u200bPharmacy & Nursing: B.Pharmacy and B.Sc. Nursing offer immediate career opportunities in India and abroad.\n\u200bVeterinary Science: A great path if she has an interest in animal health.\n\u200bThe Advantage of Gurukula Education\n\u200bStudying in a Gurukula environment (especially one she likes) provides benefits that regular private colleges often miss:\n\u200bDisciplined Routine: The structured lifestyle helps students focus on their studies without the typical distractions of modern city life.\n\u200bPeer Learning: Living and studying with fellow students fosters a sense of healthy competition and deep friendship.\n\u200bMentorship: Teachers in Gurukula settings often act as mentors, guiding students' character as well as their academics.\n\u200bConcentration: Dhone provides a peaceful environment away from the noise of major hubs like Kurnool or Hyderabad, which is perfect for mastering tough subjects like Organic Chemistry and Physics."
+        },
+        {
+            "theme": "Food Hygiene Issues",
+            "category": "DIET_MENU_RATING",
+            "districts_impacted": 3,
+            "schools_impacted": 3,
+            "frequency": 3,
+            "sample_summary": "sometimes in rice they see some insects and some other kind of problems facing"
+        }
+    ],
+    "red_flag_schools": [
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,KORRAPADU",
+            "complaint_count": 105,
+            "categories_impacted": 11,
+            "avg_rating": 2.704761904761905
+        },
+        {
+            "district": "NANDYAL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,LAXMAPURAM",
+            "complaint_count": 54,
+            "categories_impacted": 10,
+            "avg_rating": 2.537037037037037
+        },
+        {
+            "district": "KURNOOL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KURNOOL",
+            "complaint_count": 50,
+            "categories_impacted": 10,
+            "avg_rating": 2.5
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KURUGUNTA",
+            "complaint_count": 48,
+            "categories_impacted": 11,
+            "avg_rating": 2.375
+        },
+        {
+            "district": "TIRUPATI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,DAKKILI",
+            "complaint_count": 47,
+            "categories_impacted": 11,
+            "avg_rating": 2.404255319148936
+        },
+        {
+            "district": "TIRUPATI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,SULURUPET",
+            "complaint_count": 40,
+            "categories_impacted": 10,
+            "avg_rating": 2.525
+        },
+        {
+            "district": "EAST GODAVARI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KOVVURU (BCRS)",
+            "complaint_count": 40,
+            "categories_impacted": 10,
+            "avg_rating": 2.025
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,GOOTY (DPIP)",
+            "complaint_count": 40,
+            "categories_impacted": 9,
+            "avg_rating": 2.425
+        },
+        {
+            "district": "SRI SATHYA SAI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,HINDUPUR (DPIP)",
+            "complaint_count": 38,
+            "categories_impacted": 10,
+            "avg_rating": 2.289473684210526
+        },
+        {
+            "district": "SRI SATHYA SAI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,NALLAMADA",
+            "complaint_count": 36,
+            "categories_impacted": 10,
+            "avg_rating": 2.2777777777777777
+        },
+        {
+            "district": "TIRUPATI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CHILLAKUR",
+            "complaint_count": 35,
+            "categories_impacted": 9,
+            "avg_rating": 2.0285714285714285
+        },
+        {
+            "district": "SPSR NELLORE",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,ADURUPALLI",
+            "complaint_count": 33,
+            "categories_impacted": 7,
+            "avg_rating": 1.9696969696969697
+        },
+        {
+            "district": "Y.S.R.",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CHINNACHOWK",
+            "complaint_count": 32,
+            "categories_impacted": 11,
+            "avg_rating": 1.875
+        },
+        {
+            "district": "SRIKAKULAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,PATHAPATNAM (DPIP)",
+            "complaint_count": 30,
+            "categories_impacted": 10,
+            "avg_rating": 1.7333333333333334
+        },
+        {
+            "district": "ANNAMAYYA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,MADANAPALLI (DPIP)",
+            "complaint_count": 30,
+            "categories_impacted": 7,
+            "avg_rating": 1.5666666666666667
+        },
+        {
+            "district": "TIRUPATI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,PUDURU AT NAIDUPET",
+            "complaint_count": 28,
+            "categories_impacted": 10,
+            "avg_rating": 2.0357142857142856
+        },
+        {
+            "district": "KURNOOL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,ADHONI",
+            "complaint_count": 28,
+            "categories_impacted": 9,
+            "avg_rating": 2.5
+        },
+        {
+            "district": "PRAKASAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CHIMAKURTHY",
+            "complaint_count": 27,
+            "categories_impacted": 10,
+            "avg_rating": 1.5185185185185186
+        },
+        {
+            "district": "CHITTOOR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KUPPAM (DPIP)",
+            "complaint_count": 25,
+            "categories_impacted": 9,
+            "avg_rating": 1.96
+        },
+        {
+            "district": "KURNOOL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam Jr. College,CHINNATEKURU  ( JR COL)",
+            "complaint_count": 25,
+            "categories_impacted": 11,
+            "avg_rating": 2.16
+        }
+    ],
+    "red_flag_principals": [
+        {
+            "district": "ANAKAPALLI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NAKKAPALLI",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,KORRAPADU",
+            "id": 8,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,THIMMAPUR",
+            "id": 2,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,GOOTY (DPIP)",
+            "id": 5,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KURUGUNTA",
+            "id": 4,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "ANNAMAYYA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,MADANAPALLI (DPIP)",
+            "id": 4,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "ANNAMAYYA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,RAYACHOTI (BCRS)",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "ANNAMAYYA",
+            "school_name": "Dr.B.R.Ambedkar Gurukulam for Boys, Ramapuram, Annamayya District.",
+            "id": 2,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "BAPATLA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam NARASAYAPALEM",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "BAPATLA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,YEDDANAPUDI",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "CHITTOOR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,G D NELLORE",
+            "id": 2,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "CHITTOOR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,KUPPAM (VIJAPURAM)",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "CHITTOOR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KUPPAM (DPIP)",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "EAST GODAVARI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,RAJAHMUNDRY",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "EAST GODAVARI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KOVVURU (BCRS)",
+            "id": 3,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "KAKINADA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,JAGANNAIKPUR at P VENKATAPURAM",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "KAKINADA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,S.M. NAGAR(KAKINADA)",
+            "id": 3,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "KURNOOL",
+            "school_name": "DR.B.R.AMBEDKAR GURUKULAM,VELDURTHY",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "KURNOOL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam Jr. College,CHINNATEKURU  ( JR COL)",
+            "id": 4,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "KURNOOL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,ADHONI",
+            "id": 1,
+            "theme": "Other Concerns"
+        }
+    ],
+    "red_flag_caretakers": [
+        {
+            "district": "ANAKAPALLI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,KONAM",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "ANAKAPALLI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,GOLUGONDA",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "ANAKAPALLI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NAKKAPALLI",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "ANAKAPALLI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NARSIPATNAM",
+            "id": 4,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,KORRAPADU",
+            "id": 7,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,THIMMAPUR",
+            "id": 3,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,GOOTY (DPIP)",
+            "id": 4,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KURUGUNTA",
+            "id": 4,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "ANNAMAYYA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,MADANAPALLI (DPIP)",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "ANNAMAYYA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,RAYACHOTI (BCRS)",
+            "id": 2,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "BAPATLA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NIZAMPATNAM (PALLPATLA)",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "CHITTOOR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,G D NELLORE",
+            "id": 3,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "CHITTOOR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,POTHALAPATTU",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "CHITTOOR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CHITTOOR",
+            "id": 3,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "CHITTOOR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,PALAMANERU",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "DR.B.R.AMBEDKAR KONASEEMA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,DRAKSARAMA",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "EAST GODAVARI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,RAJAHMUNDRY",
+            "id": 2,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "EAST GODAVARI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KOVVURU (BCRS)",
+            "id": 2,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "ELURU",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,DWARAKA TIRUMALA",
+            "id": 5,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "ELURU",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,JANGAREDDYGUDEM",
+            "id": 1,
+            "theme": "Other Concerns"
+        }
+    ],
+    "red_flag_water": [
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,KORRAPADU",
+            "id": 10,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,THIMMAPUR",
+            "id": 6,
+            "theme": "Purifier/Filter Issues, Other Concerns, Water Shortage"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,BRAHMASAMUDRAM (DPIP)",
+            "id": 2,
+            "theme": "Other Concerns, Purifier/Filter Issues"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,GOOTY (DPIP)",
+            "id": 9,
+            "theme": "Other Concerns, Water Shortage, Purifier/Filter Issues"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KURUGUNTA",
+            "id": 4,
+            "theme": "Other Concerns, Water Shortage"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,URAVAKONDA",
+            "id": 2,
+            "theme": "Other Concerns, Purifier/Filter Issues"
+        },
+        {
+            "district": "ANANTAPUR",
+            "school_name": "KGBV  NARPALA",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "ANNAMAYYA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,VALMEEKIPURAM",
+            "id": 1,
+            "theme": "Purifier/Filter Issues"
+        },
+        {
+            "district": "ANNAMAYYA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,B KOTHAKOTA",
+            "id": 2,
+            "theme": "Other Concerns, Purifier/Filter Issues"
+        },
+        {
+            "district": "ANNAMAYYA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KODURU",
+            "id": 7,
+            "theme": "Other Concerns, Purifier/Filter Issues, Water Shortage"
+        },
+        {
+            "district": "ANNAMAYYA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,MADANAPALLI (DPIP)",
+            "id": 3,
+            "theme": "Water Shortage, Other Concerns, Purifier/Filter Issues"
+        },
+        {
+            "district": "ANNAMAYYA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,PILERU",
+            "id": 3,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "ANNAMAYYA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,RAYACHOTI (BCRS)",
+            "id": 2,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "BAPATLA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam NARASAYAPALEM",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "BAPATLA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,REPALLEY (BCRS)",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "BAPATLA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,BAPATLA",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "BAPATLA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NIZAMPATNAM (PALLPATLA)",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "BAPATLA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,YEDDANAPUDI",
+            "id": 1,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "CHITTOOR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,G D NELLORE",
+            "id": 3,
+            "theme": "Other Concerns"
+        },
+        {
+            "district": "CHITTOOR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,POTHALAPATTU",
+            "id": 1,
+            "theme": "Other Concerns"
+        }
+    ],
+    "actionable_comments": [
+        {
+            "district": "VIZIANAGARAM",
+            "school_name": "GOVT BC COLLEGE GIRLS HOSTEL, CHEEPURUPALLI",
+            "category": "EDUCATION_QUALITY_RATING",
+            "rating": 4.0,
+            "comment": "Good education satisfied"
+        },
+        {
+            "district": "VIZIANAGARAM",
+            "school_name": "GOVT BC COLLEGE GIRLS HOSTEL, CHEEPURUPALLI",
+            "category": "DIET_MENU_RATING",
+            "rating": 1.0,
+            "comment": "No test"
+        },
+        {
+            "district": "NANDYAL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,ALLAGADDA",
+            "category": "HEALTHCARE_RATING",
+            "rating": 5.0,
+            "comment": "It is very good."
+        },
+        {
+            "district": "NANDYAL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,ALLAGADDA",
+            "category": "SAFETY_MEASURES_RATING",
+            "rating": 5.0,
+            "comment": "5 is very good"
+        },
+        {
+            "district": "NANDYAL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,ALLAGADDA",
+            "category": "EXTRACURRICULAR_RATING",
+            "rating": 5.0,
+            "comment": "5 very good"
+        },
+        {
+            "district": "TIRUPATI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,DAKKILI",
+            "category": "TEACHER_COMMUNICATION_RATING",
+            "rating": 5.0,
+            "comment": "good \ud83d\udc4d"
+        },
+        {
+            "district": "EAST GODAVARI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KOVVURU (BCRS)",
+            "category": "TEACHER_COMMUNICATION_RATING",
+            "rating": NaN,
+            "comment": "Gaining knowledge"
+        },
+        {
+            "district": "EAST GODAVARI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KOVVURU (BCRS)",
+            "category": "DRINKING_WATER_RATING",
+            "rating": 5.0,
+            "comment": "5 anytime in freshwater"
+        },
+        {
+            "district": "EAST GODAVARI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KOVVURU (BCRS)",
+            "category": "HEALTHCARE_RATING",
+            "rating": 5.0,
+            "comment": "5 anytime checking doctors"
+        },
+        {
+            "district": "EAST GODAVARI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KOVVURU (BCRS)",
+            "category": "DIET_MENU_RATING",
+            "rating": 5.0,
+            "comment": "5 anytime healthy \ud83e\udd5d\ud83e\udd51"
+        },
+        {
+            "district": "EAST GODAVARI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KOVVURU (BCRS)",
+            "category": "SAFETY_MEASURES_RATING",
+            "rating": 3.0,
+            "comment": "12345 safe zoon"
+        },
+        {
+            "district": "EAST GODAVARI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KOVVURU (BCRS)",
+            "category": "EXTRACURRICULAR_RATING",
+            "rating": 3.0,
+            "comment": "12345 healthy and strong"
+        },
+        {
+            "district": "EAST GODAVARI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,KOVVURU (BCRS)",
+            "category": "OVERALL_SATISFACTION_RATING",
+            "rating": NaN,
+            "comment": "12345life time samtrupthi"
+        },
+        {
+            "district": NaN,
+            "school_name": NaN,
+            "category": "EDUCATION_QUALITY_RATING",
+            "rating": 4.0,
+            "comment": "\u0c10 \u0c2f\u0c3e\u0c02 \u0c36\u0c3e\u0c1f\u0c3f\u0c30\u0c3f\u0c2b\u0c48\u0c21\u0c4d"
+        },
+        {
+            "district": NaN,
+            "school_name": NaN,
+            "category": "CARETAKER_SATISFACTION",
+            "rating": 4.0,
+            "comment": "\u0c35\u0c48\u0c2f\u0c38\u0c4d"
+        },
+        {
+            "district": NaN,
+            "school_name": NaN,
+            "category": "TEACHER_COMMUNICATION_RATING",
+            "rating": 4.0,
+            "comment": "\u0c0e\u0c35\u0c30\u0c41 \u0c1f\u0c40\u0c1a\u0c30\u0c4d \u0c35\u0c46\u0c30\u0c40 \u0c17\u0c41\u0c21\u0c4d \u0c1f\u0c40\u0c1a\u0c3f\u0c02\u0c17\u0c4d"
+        },
+        {
+            "district": NaN,
+            "school_name": NaN,
+            "category": "DRINKING_WATER_RATING",
+            "rating": 4.0,
+            "comment": "\u0c21\u0c4d\u0c30\u0c3f\u0c02\u0c15\u0c3f\u0c02\u0c17\u0c4d \u0c35\u0c3e\u0c1f\u0c30\u0c4d \u0c35\u0c46\u0c30\u0c40 \u0c38\u0c42\u0c2a\u0c30\u0c4d"
+        },
+        {
+            "district": NaN,
+            "school_name": NaN,
+            "category": "DIET_MENU_RATING",
+            "rating": NaN,
+            "comment": "Yes the diet menu is very healthy to child"
+        },
+        {
+            "district": NaN,
+            "school_name": NaN,
+            "category": "OVERALL_SATISFACTION_RATING",
+            "rating": 5.0,
+            "comment": "Very good facilties"
+        },
+        {
+            "district": "TIRUPATI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CHILLAKUR",
+            "category": "PRINCIPAL_SATISFACTION",
+            "rating": NaN,
+            "comment": "Speed \u200b\u200bup"
+        },
+        {
+            "district": "BAPATLA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam NARASAYAPALEM",
+            "category": "HEALTHCARE_RATING",
+            "rating": 5.0,
+            "comment": "healthcare facilities are good"
+        },
+        {
+            "district": "BAPATLA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam NARASAYAPALEM",
+            "category": "EXTRACURRICULAR_RATING",
+            "rating": 5.0,
+            "comment": "extracurricular activities are good"
+        },
+        {
+            "district": "BAPATLA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam NARASAYAPALEM",
+            "category": "OVERALL_SATISFACTION_RATING",
+            "rating": 5.0,
+            "comment": "overall facilities are  good"
+        },
+        {
+            "district": "Y.S.R.",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CHINNACHOWK",
+            "category": "DRINKING_WATER_RATING",
+            "rating": 1.0,
+            "comment": "No water fasetelus"
+        },
+        {
+            "district": "KURNOOL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,C BELGAL",
+            "category": "DRINKING_WATER_RATING",
+            "rating": 4.0,
+            "comment": "We are very satisfied with our children's progress."
+        },
+        {
+            "district": "KURNOOL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,C BELGAL",
+            "category": "DIET_MENU_RATING",
+            "rating": 4.0,
+            "comment": "I am very satisfied. I am very satisfied."
+        },
+        {
+            "district": "CHITTOOR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CHITTOOR",
+            "category": "EDUCATION_QUALITY_RATING",
+            "rating": 5.0,
+            "comment": "I'm very happy the education from government is very good which leads to my child talk in English and she good at every subjects and she know how we talk with others like friendly, respectfully, politely etc,,"
+        },
+        {
+            "district": "CHITTOOR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CHITTOOR",
+            "category": "PRINCIPAL_SATISFACTION",
+            "rating": 5.0,
+            "comment": ",yes the principal working way is very good to us"
+        },
+        {
+            "district": "CHITTOOR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CHITTOOR",
+            "category": "CARETAKER_SATISFACTION",
+            "rating": 5.0,
+            "comment": "the caretaker working is very good,the menu is very good"
+        },
+        {
+            "district": "Y.S.R.",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CHINNACHOWK",
+            "category": "DIET_MENU_RATING",
+            "rating": 4.0,
+            "comment": "Good morning"
+        },
+        {
+            "district": "VISAKHAPATANAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,SCH_EXCL_VISAKHAPATNAM",
+            "category": "EDUCATION_QUALITY_RATING",
+            "rating": 5.0,
+            "comment": "start rating"
+        },
+        {
+            "district": "VISAKHAPATANAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,SCH_EXCL_VISAKHAPATNAM",
+            "category": "PRINCIPAL_SATISFACTION",
+            "rating": 5.0,
+            "comment": "start rating"
+        },
+        {
+            "district": "VISAKHAPATANAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,SCH_EXCL_VISAKHAPATNAM",
+            "category": "CARETAKER_SATISFACTION",
+            "rating": 5.0,
+            "comment": "start rating"
+        },
+        {
+            "district": "VISAKHAPATANAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,SCH_EXCL_VISAKHAPATNAM",
+            "category": "TEACHER_COMMUNICATION_RATING",
+            "rating": 5.0,
+            "comment": "rating"
+        },
+        {
+            "district": "VISAKHAPATANAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,SCH_EXCL_VISAKHAPATNAM",
+            "category": "DRINKING_WATER_RATING",
+            "rating": 5.0,
+            "comment": "start rating"
+        },
+        {
+            "district": "VISAKHAPATANAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,SCH_EXCL_VISAKHAPATNAM",
+            "category": "HEALTHCARE_RATING",
+            "rating": 5.0,
+            "comment": "start rating"
+        },
+        {
+            "district": "VISAKHAPATANAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,SCH_EXCL_VISAKHAPATNAM",
+            "category": "DIET_MENU_RATING",
+            "rating": 5.0,
+            "comment": "start rating"
+        },
+        {
+            "district": "SPSR NELLORE",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,ADURUPALLI",
+            "category": "EDUCATION_QUALITY_RATING",
+            "rating": 2.0,
+            "comment": "Father"
+        },
+        {
+            "district": "KURNOOL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,C BELGAL",
+            "category": "HEALTHCARE_RATING",
+            "rating": 5.0,
+            "comment": "My rating is 5 it's number one school"
+        },
+        {
+            "district": "KURNOOL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,C BELGAL",
+            "category": "DIET_MENU_RATING",
+            "rating": 5.0,
+            "comment": "5 Nice and Neat Food"
+        },
+        {
+            "district": "KURNOOL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,C BELGAL",
+            "category": "SAFETY_MEASURES_RATING",
+            "rating": 1.0,
+            "comment": "5Its Number One Security"
+        },
+        {
+            "district": "KURNOOL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,C BELGAL",
+            "category": "EXTRACURRICULAR_RATING",
+            "rating": 5.0,
+            "comment": "5 yes"
+        },
+        {
+            "district": "KURNOOL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,C BELGAL",
+            "category": "OVERALL_SATISFACTION_RATING",
+            "rating": 5.0,
+            "comment": "5 We are happy."
+        },
+        {
+            "district": "ANAKAPALLI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NARSIPATNAM",
+            "category": "EDUCATION_QUALITY_RATING",
+            "rating": 5.0,
+            "comment": "5, Our child studies very well and is very polite."
+        },
+        {
+            "district": "ANAKAPALLI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NARSIPATNAM",
+            "category": "PRINCIPAL_SATISFACTION",
+            "rating": 5.0,
+            "comment": "5, Our principal madam is very good with the children. She is also very committed to their studies."
+        },
+        {
+            "district": "ANAKAPALLI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NARSIPATNAM",
+            "category": "CARETAKER_SATISFACTION",
+            "rating": 3.0,
+            "comment": "3, They are always cursing."
+        },
+        {
+            "district": "ANAKAPALLI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NARSIPATNAM",
+            "category": "TEACHER_COMMUNICATION_RATING",
+            "rating": 5.0,
+            "comment": "5, Always support our children's education."
+        },
+        {
+            "district": "ANAKAPALLI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NARSIPATNAM",
+            "category": "DRINKING_WATER_RATING",
+            "rating": 5.0,
+            "comment": "5, They provide good mineral water."
+        },
+        {
+            "district": "ANAKAPALLI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NARSIPATNAM",
+            "category": "HEALTHCARE_RATING",
+            "rating": 5.0,
+            "comment": "5, All health facilities provided"
+        },
+        {
+            "district": "ANAKAPALLI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NARSIPATNAM",
+            "category": "DIET_MENU_RATING",
+            "rating": 5.0,
+            "comment": "5, Good but it would be better if they served better food"
+        },
+        {
+            "district": "ANAKAPALLI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NARSIPATNAM",
+            "category": "OVERALL_SATISFACTION_RATING",
+            "rating": 5.0,
+            "comment": "6 4\u00bd 5"
+        },
+        {
+            "district": "CHITTOOR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,G D NELLORE",
+            "category": "PRINCIPAL_SATISFACTION",
+            "rating": 5.0,
+            "comment": "5 Principal medam verry verry good."
+        },
+        {
+            "district": "CHITTOOR",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,G D NELLORE",
+            "category": "TEACHER_COMMUNICATION_RATING",
+            "rating": NaN,
+            "comment": "Children should be taught more about education."
+        },
+        {
+            "district": "NANDYAL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,JUPADU BANG",
+            "category": "DRINKING_WATER_RATING",
+            "rating": 5.0,
+            "comment": "satisfied  very"
+        },
+        {
+            "district": "NANDYAL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,JUPADU BANG",
+            "category": "DIET_MENU_RATING",
+            "rating": 5.0,
+            "comment": "vert satisfied"
+        },
+        {
+            "district": "NANDYAL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,JUPADU BANG",
+            "category": "SAFETY_MEASURES_RATING",
+            "rating": 5.0,
+            "comment": "Vert safety\nYes"
+        },
+        {
+            "district": "NANDYAL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,JUPADU BANG",
+            "category": "EXTRACURRICULAR_RATING",
+            "rating": 5.0,
+            "comment": "Extra circular activity\nVery satisfied"
+        },
+        {
+            "district": "NANDYAL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,JUPADU BANG",
+            "category": "OVERALL_SATISFACTION_RATING",
+            "rating": 5.0,
+            "comment": "More facilities"
+        },
+        {
+            "district": "PRAKASAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CUMBUM",
+            "category": "EDUCATION_QUALITY_RATING",
+            "rating": 5.0,
+            "comment": "5 My daughter is studying very well."
+        },
+        {
+            "district": "PRAKASAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CUMBUM",
+            "category": "PRINCIPAL_SATISFACTION",
+            "rating": 5.0,
+            "comment": "5 Principal Madam treats us well."
+        },
+        {
+            "district": "PRAKASAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CUMBUM",
+            "category": "CARETAKER_SATISFACTION",
+            "rating": 5.0,
+            "comment": "5 Madam takes care of everything we need."
+        },
+        {
+            "district": "PRAKASAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CUMBUM",
+            "category": "TEACHER_COMMUNICATION_RATING",
+            "rating": 5.0,
+            "comment": "5 Our daughter studies well."
+        },
+        {
+            "district": "PRAKASAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CUMBUM",
+            "category": "DRINKING_WATER_RATING",
+            "rating": 5.0,
+            "comment": "5 Drinking water facility is good."
+        },
+        {
+            "district": "PRAKASAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CUMBUM",
+            "category": "HEALTHCARE_RATING",
+            "rating": 4.0,
+            "comment": "4 Our daughter will be in good health."
+        },
+        {
+            "district": "PRAKASAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CUMBUM",
+            "category": "DIET_MENU_RATING",
+            "rating": 5.0,
+            "comment": "5 The food is good."
+        },
+        {
+            "district": "PRAKASAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CUMBUM",
+            "category": "SAFETY_MEASURES_RATING",
+            "rating": 4.0,
+            "comment": "4 is fine."
+        },
+        {
+            "district": "PRAKASAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CUMBUM",
+            "category": "EXTRACURRICULAR_RATING",
+            "rating": 4.0,
+            "comment": "4 We are very satisfied."
+        },
+        {
+            "district": "PRAKASAM",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,CUMBUM",
+            "category": "OVERALL_SATISFACTION_RATING",
+            "rating": 5.0,
+            "comment": "5 The facilities provided by Gurukulam are good."
+        },
+        {
+            "district": "ANNAMAYYA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,MADANAPALLI (DPIP)",
+            "category": "PRINCIPAL_SATISFACTION",
+            "rating": 5.0,
+            "comment": "5\nVery"
+        },
+        {
+            "district": "ANNAMAYYA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,MADANAPALLI (DPIP)",
+            "category": "DIET_MENU_RATING",
+            "rating": 5.0,
+            "comment": "5\nGood"
+        },
+        {
+            "district": "SPSR NELLORE",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,RAPUR",
+            "category": "EXTRACURRICULAR_RATING",
+            "rating": 2.0,
+            "comment": "2\nNo PET Master"
+        },
+        {
+            "district": "NANDYAL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,ALLAGADDA (RPRP)",
+            "category": "DRINKING_WATER_RATING",
+            "rating": 1.0,
+            "comment": "1 shortage of drinking water"
+        },
+        {
+            "district": "SPSR NELLORE",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,ADURUPALLI",
+            "category": "EDUCATION_QUALITY_RATING",
+            "rating": 1.0,
+            "comment": "Mother"
+        },
+        {
+            "district": "SRI SATHYA SAI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam JUNIOR COLLEGE, AMARAPURAM",
+            "category": "EDUCATION_QUALITY_RATING",
+            "rating": 2.0,
+            "comment": "Satis fied"
+        },
+        {
+            "district": "SRI SATHYA SAI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam JUNIOR COLLEGE, AMARAPURAM",
+            "category": "EDUCATION_QUALITY_RATING",
+            "rating": 2.0,
+            "comment": "Father"
+        },
+        {
+            "district": "TIRUPATI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,PUDURU AT NAIDUPET",
+            "category": "PRINCIPAL_SATISFACTION",
+            "rating": NaN,
+            "comment": "Study very well."
+        },
+        {
+            "district": "TIRUPATI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,PUDURU AT NAIDUPET",
+            "category": "EXTRACURRICULAR_RATING",
+            "rating": 5.0,
+            "comment": "5 Good"
+        },
+        {
+            "district": "NANDYAL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,PEAPALLY",
+            "category": "EDUCATION_QUALITY_RATING",
+            "rating": 1.0,
+            "comment": "' Very satisfied '\u200bSince she is happy with the teaching at the Gurukula Patashala in Dhone, she already has the most important ingredient for success: a positive learning environment.\n\u200bHere is some \"satisfying information\" regarding the path she has chosen and why her current satisfaction is a great sign for her future.\n\u200bWhy Bi.P.C is a Great Choice\n\u200bThe Bi.P.C stream is highly respected because it develops both analytical thinking and scientific curiosity. Here are the primary paths she can look forward to:\n\u200bMedical Excellence: Beyond just MBBS (Doctor), she can explore BDS (Dental), BAMS (Ayurvedic), or BHMS (Homeopathy).\n\u200bSpecialized Sciences: B.Sc. in Agriculture, Biotechnology, or Food Science are booming industries with high job security.\n\u200bPharmacy & Nursing: B.Pharmacy and B.Sc. Nursing offer immediate career opportunities in India and abroad.\n\u200bVeterinary Science: A great path if she has an interest in animal health.\n\u200bThe Advantage of Gurukula Education\n\u200bStudying in a Gurukula environment (especially one she likes) provides benefits that regular private colleges often miss:\n\u200bDisciplined Routine: The structured lifestyle helps students focus on their studies without the typical distractions of modern city life.\n\u200bPeer Learning: Living and studying with fellow students fosters a sense of healthy competition and deep friendship.\n\u200bMentorship: Teachers in Gurukula settings often act as mentors, guiding students' character as well as their academics.\n\u200bConcentration: Dhone provides a peaceful environment away from the noise of major hubs like Kurnool or Hyderabad, which is perfect for mastering tough subjects like Organic Chemistry and Physics."
+        },
+        {
+            "district": "NANDYAL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,PEAPALLY",
+            "category": "CARETAKER_SATISFACTION",
+            "rating": NaN,
+            "comment": "It sounds like you have a very special bond with her! Having a principal who also looks after you as a caregiver is a unique and wonderful thing\u2014it means you have someone who supports both your education and your personal well-being.\n\u200bHere are a few ways you can describe her, depending on who you are talking to:\n\u200bFor a Heartfelt Tribute\n\u200b\"She is more than just a principal; she is a guiding light who balances authority with immense kindness.\"\n\u200b\"To the world, she leads a school, but to me, she is the person who ensures I am safe, cared for, and supported every single day.\"\n\u200b\"She wears many hats, but her most important role in my life is being the guardian who believes in my potential even when I don't.\"\n\u200bFor a Professional or Formal Setting\n\u200b\"As a principal, she leads with wisdom and discipline, but as my caregiver, she shows incredible compassion and dedication.\"\n\u200b\"She possesses the rare ability to manage an entire institution while never losing sight of the individual needs of those under her care.\"\n\u200b\"Her dual role as an educator and a caregiver makes her a true mentor and a pillar of strength in my life.\""
+        },
+        {
+            "district": "NANDYAL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,PEAPALLY",
+            "category": "TEACHER_COMMUNICATION_RATING",
+            "rating": NaN,
+            "comment": "The bonding with subject teacher is unbreakable bond. She is treat like a mother and the all the teachers are takecare of me. The all my teachers are giving the knowledge and after the teachers want my success in my life"
+        },
+        {
+            "district": "NANDYAL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,PEAPALLY",
+            "category": "DRINKING_WATER_RATING",
+            "rating": NaN,
+            "comment": "I am satisfied becouse the water is very pure and clean water with sometimes their is cool water it is good for health"
+        },
+        {
+            "district": "NANDYAL",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,PEAPALLY",
+            "category": "HEALTHCARE_RATING",
+            "rating": 1.0,
+            "comment": "Madam my child is always healthful becouse the facilities of the college. The most important thing is medical facilities also available in the college. Thier is one health issue the teachers are react and giving medicine to the child,  giving rest and take care of her.. Thank you soo much"
+        },
+        {
+            "district": "TIRUPATI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,DAKKILI",
+            "category": "PRINCIPAL_SATISFACTION",
+            "rating": 5.0,
+            "comment": "very satisfied because we have seen the decipline of the children"
+        },
+        {
+            "district": "TIRUPATI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,DAKKILI",
+            "category": "TEACHER_COMMUNICATION_RATING",
+            "rating": 5.0,
+            "comment": "very satisfied because I like their guidence of the children"
+        },
+        {
+            "district": "TIRUPATI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,DAKKILI",
+            "category": "DRINKING_WATER_RATING",
+            "rating": 4.0,
+            "comment": "It's good"
+        },
+        {
+            "district": "TIRUPATI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,DAKKILI",
+            "category": "HEALTHCARE_RATING",
+            "rating": 5.0,
+            "comment": "Fine facilities"
+        },
+        {
+            "district": "TIRUPATI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,DAKKILI",
+            "category": "DIET_MENU_RATING",
+            "rating": 5.0,
+            "comment": "I am very satisfied about the diet menu and also thanks for them"
+        },
+        {
+            "district": "TIRUPATI",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,DAKKILI",
+            "category": "SAFETY_MEASURES_RATING",
+            "rating": 4.0,
+            "comment": "Yes we are very satisfied about that"
+        },
+        {
+            "district": "BAPATLA",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,BAPATLA",
+            "category": "EXTRACURRICULAR_RATING",
+            "rating": 1.0,
+            "comment": "1 Sorts Enka development cheyali ground kavali"
+        },
+        {
+            "district": "ELURU",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NUZIVEEDU (G)",
+            "category": "EDUCATION_QUALITY_RATING",
+            "rating": 5.0,
+            "comment": "Five I am satisfied."
+        },
+        {
+            "district": "ELURU",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NUZIVEEDU (G)",
+            "category": "PRINCIPAL_SATISFACTION",
+            "rating": 5.0,
+            "comment": "Five satisfied"
+        },
+        {
+            "district": "ELURU",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NUZIVEEDU (G)",
+            "category": "CARETAKER_SATISFACTION",
+            "rating": 5.0,
+            "comment": "Five satisfied"
+        },
+        {
+            "district": "ELURU",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NUZIVEEDU (G)",
+            "category": "TEACHER_COMMUNICATION_RATING",
+            "rating": 5.0,
+            "comment": "Five satisfied"
+        },
+        {
+            "district": "ELURU",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NUZIVEEDU (G)",
+            "category": "DRINKING_WATER_RATING",
+            "rating": 5.0,
+            "comment": "Five satisfied"
+        },
+        {
+            "district": "ELURU",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NUZIVEEDU (G)",
+            "category": "HEALTHCARE_RATING",
+            "rating": 5.0,
+            "comment": "Five I am satisfied."
+        },
+        {
+            "district": "ELURU",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NUZIVEEDU (G)",
+            "category": "DIET_MENU_RATING",
+            "rating": 5.0,
+            "comment": "Five I am satisfied."
+        },
+        {
+            "district": "ELURU",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NUZIVEEDU (G)",
+            "category": "SAFETY_MEASURES_RATING",
+            "rating": 5.0,
+            "comment": "Five I am satisfied."
+        },
+        {
+            "district": "ELURU",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NUZIVEEDU (G)",
+            "category": "EXTRACURRICULAR_RATING",
+            "rating": 5.0,
+            "comment": "Five I am satisfied."
+        },
+        {
+            "district": "ELURU",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam/JC,NUZIVEEDU (G)",
+            "category": "OVERALL_SATISFACTION_RATING",
+            "rating": NaN,
+            "comment": "It hurts up there."
+        },
+        {
+            "district": "SPSR NELLORE",
+            "school_name": "Dr. B. R. Ambedkar Gurukulam,BUTCHIREDDIPALEM (BCRS)",
+            "category": "CARETAKER_SATISFACTION",
+            "rating": 5.0,
+            "comment": "We are satisfied with the caretaker because they are doing well for our child"
+        }
+    ]
+}
