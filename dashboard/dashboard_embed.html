@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Parents Feedback Initiative</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f4f6f9;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+
+    /* ── HEADER ── */
+    .header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: #f7f7f7;
+      padding: 12px 24px;
+      border-bottom: 1px solid #e2e8f0;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+
+    .logo-box {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      width: 200px;           /* fixed width keeps heading centred */
+    }
+
+    .logo-box img {
+      height: 56px;
+      width: auto;
+      object-fit: contain;
+      border-radius: 4px;
+    }
+
+    .logo-box span {
+      color: #475569;
+      font-size: 12px;
+      line-height: 1.3;
+    }
+
+    /* Right logo aligned to the right */
+    .logo-box.right {
+      justify-content: flex-end;
+    }
+
+    .header-title {
+      flex: 1;
+      text-align: center;
+    }
+
+    .header-title h1 {
+      color: #1e293b;
+      font-size: clamp(16px, 2.2vw, 26px);
+      font-weight: 700;
+      letter-spacing: 0.5px;
+    }
+
+    .header-title p {
+      color: #64748b;
+      font-size: 12px;
+      margin-top: 3px;
+    }
+
+    /* ── METABASE IFRAME ── */
+    .dashboard-wrapper {
+      flex: 1;
+      padding: 0;
+      overflow: hidden;
+    }
+
+    .dashboard-wrapper iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ════ HEADER ════ -->
+  <header class="header">
+
+    <!-- LEFT: State / Govt Logo -->
+    <div class="logo-box left">
+      <img
+        src="./logos/apswreis.png"
+        alt="AP State Logo"
+        title="Government of Andhra Pradesh"
+      />
+    </div>
+
+    <!-- CENTER: Title -->
+    <div class="header-title">
+      <h1>Parents Feedback Initiative</h1>
+      <p>School Education Department · Data Dashboard</p>
+    </div>
+
+    <!-- RIGHT: Company / Organisation Logo -->
+    <div class="logo-box right">
+      <img
+        src="./logos/state.png"
+        alt="State Logo"
+        title="Government of Andhra Pradesh"
+      />
+    </div>
+
+  </header>
+
+  <!-- ════ METABASE EMBED ════ -->
+  <div class="dashboard-wrapper">
+    <!--
+      REPLACE THE SRC BELOW with your actual Metabase embed URL.
+
+      For Static (signed) embedding:
+        src="https://<your-metabase-host>/embed/dashboard/<JWT_TOKEN>#bordered=false&titled=false"
+
+      For Public embedding (simplest – no server code needed):
+        src="https://<your-metabase-host>/public/dashboard/<UUID>"
+
+      You can get the exact URL from:
+        Metabase → Dashboard → Share → "Embed" → "Embed" (Static) → copy the iframe src
+        or Share → Public link → copy the URL
+    -->
+    <iframe
+      src="https://YOUR_METABASE_HOST/public/dashboard/YOUR_DASHBOARD_UUID"
+      allowtransparency="true"
+      title="Parents Feedback Initiative Dashboard"
+    ></iframe>
+  </div>
+
+</body>
+</html>
